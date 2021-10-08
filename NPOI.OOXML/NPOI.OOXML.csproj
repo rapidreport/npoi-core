@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>NPOI</RootNamespace>
+    <Copyright>Apache 2.0</Copyright>
+    <Version>0</Version>
+    <AssemblyVersion>2.2.1.0</AssemblyVersion>
+    <FileVersion>2.2.1.0</FileVersion>
+    <AssemblyName>systembase.NPOI.OOXML</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>systembase.npoi.ooxml.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SharpZipLib" Version="1.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NPOI.OpenXml4Net\NPOI.OpenXml4Net.csproj" />
+    <ProjectReference Include="..\NPOI.OpenXmlFormats\NPOI.OpenXmlFormats.csproj" />
+    <ProjectReference Include="..\NPOI\NPOI.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Version>0</Version>
+    <AssemblyVersion>2.2.1.0</AssemblyVersion>
+    <AssemblyName>systembase.NPOI.OpenXmlFormats</AssemblyName>
+    <FileVersion>2.2.1.0</FileVersion>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>systembase.npoi.openxmlformats.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NPOI.OpenXml4Net\NPOI.OpenXml4Net.csproj" />
+  </ItemGroup>
+
+</Project>
