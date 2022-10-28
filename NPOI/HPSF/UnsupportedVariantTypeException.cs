@@ -25,10 +25,10 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     using System;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// This exception is thrown if HPSF encounters a variant type that isn't

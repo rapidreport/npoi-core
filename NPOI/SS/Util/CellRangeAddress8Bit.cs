@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
-    using NPOI.Util;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     public class CellRangeAddress8Bit : CellRangeAddressBase
     {

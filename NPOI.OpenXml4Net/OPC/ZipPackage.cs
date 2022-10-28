@@ -3,15 +3,15 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
-using NPOI.OpenXml4Net.OPC.Internal;
-using NPOI.OpenXml4Net.OPC.Internal.Marshallers;
-using NPOI.OpenXml4Net.Exceptions;
-using Util=NPOI.OpenXml4Net.Util;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal.Marshallers;
+using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
+using Util=jp.co.systembase.NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 using ICSharpCode.SharpZipLib.Zip;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.OpenXml4Net.OPC
+namespace jp.co.systembase.NPOI.OpenXml4Net.OPC
 {
     /**
      * Physical zip package.

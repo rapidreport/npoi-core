@@ -26,9 +26,9 @@
  * ==============================================================*/
 
 using System;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
-namespace NPOI.POIFS.EventFileSystem
+namespace jp.co.systembase.NPOI.POIFS.EventFileSystem
 {
 
 

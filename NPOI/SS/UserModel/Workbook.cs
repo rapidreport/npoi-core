@@ -15,12 +15,12 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
     using System;
     using System.Collections;
     using System.IO;
-    using NPOI.SS.Formula.Udf;
+    using jp.co.systembase.NPOI.SS.Formula.Udf;
     using System.Collections.Generic;
 
     public enum SheetState : int

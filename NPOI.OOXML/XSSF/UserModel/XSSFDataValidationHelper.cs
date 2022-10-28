@@ -14,14 +14,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
     using System;
-    using NPOI.OpenXmlFormats.Spreadsheet;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
     using System.Collections.Generic;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      * @author <a href="rjankiraman@emptoris.com">Radhakrishnan J</a>

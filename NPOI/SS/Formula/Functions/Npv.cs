@@ -18,10 +18,10 @@
  * Created on May 15, 2005
  *
  */
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     using System;
-    using NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
 
     public class Npv : Function
     {

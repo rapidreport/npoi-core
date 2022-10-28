@@ -30,10 +30,10 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 
-using NPOI.POIFS.Common;
-using NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.POIFS.Storage
+namespace jp.co.systembase.NPOI.POIFS.Storage
 {
     /// <summary>
     /// A block of block allocation table entries. BATBlocks are created

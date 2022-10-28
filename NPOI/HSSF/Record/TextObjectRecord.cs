@@ -15,17 +15,17 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
-    using NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
 
-    using NPOI.SS.UserModel;
-    using NPOI.HSSF.Record.Cont;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record.Cont;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
     using System.Globalization;
 
     public class TextObjectRecord : ContinuableRecord

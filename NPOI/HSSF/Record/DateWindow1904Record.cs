@@ -17,12 +17,12 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
 
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Title:        Date Window 1904 Flag record 

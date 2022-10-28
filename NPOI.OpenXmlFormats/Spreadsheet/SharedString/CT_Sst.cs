@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
     [Serializable]
     [System.Diagnostics.DebuggerStepThrough]

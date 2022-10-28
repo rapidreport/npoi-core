@@ -16,8 +16,8 @@
 ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.SS.Util;
-namespace NPOI.SS.UserModel.Charts
+using jp.co.systembase.NPOI.SS.Util;
+namespace jp.co.systembase.NPOI.SS.UserModel.Charts
 {
 
 

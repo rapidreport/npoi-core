@@ -14,13 +14,13 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.SS.Format
+namespace jp.co.systembase.NPOI.SS.Format
 {
     using System;
     using System.Text.RegularExpressions;
     using System.Text;
     using System.Collections.Generic;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
     using System.Collections;
 
 

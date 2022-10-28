@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
-using NPOI.HSSF.Record;
-using NPOI.HSSF.Record.Chart;
-using NPOI.HSSF.Record.Aggregates;
-using NPOI.Util;
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.HSSF.Record;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
+using jp.co.systembase.NPOI.HSSF.Record.Aggregates;
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI.SS.UserModel;
 
-namespace NPOI.HSSF.Model
+namespace jp.co.systembase.NPOI.HSSF.Model
 {
 
     [Serializable]

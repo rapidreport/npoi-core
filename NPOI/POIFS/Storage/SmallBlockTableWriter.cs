@@ -28,12 +28,12 @@
 using System.IO;
 using System.Collections;
 
-using NPOI.POIFS.Common;
-using NPOI.POIFS.Properties;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
 
-namespace NPOI.POIFS.Storage
+namespace jp.co.systembase.NPOI.POIFS.Storage
 {
     /// <summary>
     /// This class implements reading the small document block list from an

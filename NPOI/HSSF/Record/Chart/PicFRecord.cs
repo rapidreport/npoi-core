@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// The PicF record specifies the layout of a picture that is attached to a picture-filled chart element.

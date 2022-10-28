@@ -15,12 +15,12 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.PTG
+namespace jp.co.systembase.NPOI.SS.Formula.PTG
 {
     using System;
     
-    using NPOI.Util;
-    using NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
 
     /**
      * @author Daniel Noll (daniel at nuix dot com dot au)

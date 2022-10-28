@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class PngUtils
     {

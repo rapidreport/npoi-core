@@ -1,5 +1,5 @@
 ﻿
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
     public class MissingArgEval : ValueEval
     {

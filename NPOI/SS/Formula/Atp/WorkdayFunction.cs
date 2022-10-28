@@ -16,11 +16,11 @@
 ==================================================================== */
 
 using System;
-using NPOI.SS.Formula.Eval;
-using NPOI.SS.Formula.Functions;
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Functions;
+using jp.co.systembase.NPOI.SS.UserModel;
 
-namespace NPOI.SS.Formula.Atp
+namespace jp.co.systembase.NPOI.SS.Formula.Atp
 {
     /**
  * Implementation of Excel 'Analysis ToolPak' function WORKDAY()<br/>

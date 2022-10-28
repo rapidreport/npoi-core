@@ -15,14 +15,14 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
-    using NPOI.SS.UserModel;
-    using NPOI.DDF;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
     using System.IO;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     /// <summary>
     /// An abstract shape.
     /// @author Glen Stampoultzis (glens at apache.org)

@@ -18,7 +18,7 @@
  * Created on May 9, 2005
  *
  */
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     public class Or : BooleanFunction
     {

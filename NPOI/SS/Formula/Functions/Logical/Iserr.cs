@@ -14,9 +14,9 @@
 * See the License for the specific language governing permissions and
 * limitations Under the License.
 */
-using NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     /**
      * contribute by Pavel Egorov 

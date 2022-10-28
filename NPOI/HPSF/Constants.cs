@@ -25,7 +25,7 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     /// <summary>
     /// Defines constants of general use.

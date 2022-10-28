@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Xml.Serialization;
-using NPOI.OpenXmlFormats.Dml.Chart;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Chart;
 using System.IO;
 using System.Xml;
 
-namespace NPOI.OpenXmlFormats.Dml
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Dml
 {
     public class ChartSpaceDocument
     {

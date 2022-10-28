@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     using System.IO;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * This class provides methods to read a DocumentEntry managed by a

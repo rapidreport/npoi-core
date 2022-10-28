@@ -16,7 +16,7 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.EventUserModel
+namespace jp.co.systembase.NPOI.HSSF.EventUserModel
 {
     using System;
     /// <summary>

@@ -29,9 +29,9 @@ using System;
 using System.Collections;
 using System.IO;
 
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
-namespace NPOI.POIFS.Dev
+namespace jp.co.systembase.NPOI.POIFS.Dev
 {
     public class POIFSLister
     {

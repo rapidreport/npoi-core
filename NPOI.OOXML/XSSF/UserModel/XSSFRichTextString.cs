@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.SS.UserModel;
 using System.Text.RegularExpressions;
-using NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
 using System;
 using System.Text;
 using System.Collections.Generic;
-using NPOI.XSSF.Model;
-namespace NPOI.XSSF.UserModel
+using jp.co.systembase.NPOI.XSSF.Model;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

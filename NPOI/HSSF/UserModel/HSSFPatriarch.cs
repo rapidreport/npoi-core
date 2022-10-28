@@ -15,17 +15,17 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
     using System.Collections;
-    using NPOI.DDF;
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.SS.UserModel;
     using System.Collections.Generic;
-    using NPOI.HSSF.Model;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /// <summary>
     /// The patriarch is the toplevel container for shapes in a sheet.  It does

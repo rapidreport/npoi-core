@@ -17,9 +17,9 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Handles the task of deserializing a SST string.  The two main entry points are

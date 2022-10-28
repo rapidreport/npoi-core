@@ -17,11 +17,11 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Title: Sheet Tab Index Array Record

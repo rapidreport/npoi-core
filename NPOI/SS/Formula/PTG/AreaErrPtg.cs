@@ -15,13 +15,13 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.PTG
+namespace jp.co.systembase.NPOI.SS.Formula.PTG
 {
     using System;
     
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
-    using NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
 
     /**
      * AreaErr - handles deleted cell area references.

@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.EventUserModel.DummyRecord
+namespace jp.co.systembase.NPOI.HSSF.EventUserModel.DummyRecord
 {
     /**
      * A dummy record for when we're missing a cell in a row,

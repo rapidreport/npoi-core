@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
     using System;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     public class MutableFPNumber
     {
 

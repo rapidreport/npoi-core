@@ -5,7 +5,7 @@
 //  </auto-generated>
 // ------------------------------------------------------------------------------
 
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,7 +13,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Dml.WordProcessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Dml.WordProcessing
 {
 
 

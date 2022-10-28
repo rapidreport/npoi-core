@@ -17,8 +17,8 @@
 ==================================================================== */
 
 
-using NPOI.Util;
-namespace NPOI.POIFS.Common
+using jp.co.systembase.NPOI.Util;
+namespace jp.co.systembase.NPOI.POIFS.Common
 {
 
     /**

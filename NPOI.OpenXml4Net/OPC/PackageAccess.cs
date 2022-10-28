@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NPOI.OpenXml4Net.OPC
+namespace jp.co.systembase.NPOI.OpenXml4Net.OPC
 {
     /**
      * Specifies package access.

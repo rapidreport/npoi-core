@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
 
     /// <summary>

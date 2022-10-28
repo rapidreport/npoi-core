@@ -14,16 +14,16 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
-    using NPOI.Util;
-    using NPOI.OpenXml4Net.OPC;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC;
     using System;
     using System.Collections.Generic;
     using System.IO;
-    using NPOI.OpenXml4Net.Exceptions;
+    using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
 using System.Xml;
-    using NPOI.OpenXml4Net.OPC.Internal;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal;
 
     /**
      * Represents an entry of a OOXML namespace.

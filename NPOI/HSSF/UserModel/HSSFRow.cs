@@ -15,15 +15,15 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
     using System.Collections;
     using System.Collections.Generic;
 
-    using NPOI.HSSF.Record;
-    using NPOI.SS.UserModel;
-    using NPOI.SS;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS;
 
     /// <summary>
     /// High level representation of a row of a spReadsheet.

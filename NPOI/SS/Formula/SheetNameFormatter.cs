@@ -16,12 +16,12 @@
 ==================================================================== */
 
 
-namespace NPOI.SS.Formula
+namespace jp.co.systembase.NPOI.SS.Formula
 {
     using System;
     using System.Text;
     using System.Text.RegularExpressions;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using System.Globalization;
 
     /**

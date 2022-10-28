@@ -18,7 +18,7 @@
  * Created on May 14, 2005
  *
  */
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
 
     /**

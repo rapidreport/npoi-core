@@ -15,12 +15,12 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula
+namespace jp.co.systembase.NPOI.SS.Formula
 {
 
     using System;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
 
     /**
      * Abstracts a workbook for the purpose of formula parsing.<br/>

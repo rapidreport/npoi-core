@@ -21,11 +21,11 @@ using System.IO;
 using System.Text;
 using System.Xml;
 
-using NPOI;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
 
-namespace NPOI.POIFS.Crypt
+namespace jp.co.systembase.NPOI.POIFS.Crypt
 {
     public class EncryptionHeader
     {

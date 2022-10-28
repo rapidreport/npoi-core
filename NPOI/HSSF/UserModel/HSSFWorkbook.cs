@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
 
     using System;
@@ -23,15 +23,15 @@ namespace NPOI.HSSF.UserModel
     using System.Collections.Generic;
     using System.IO;
     using System.Text;
-    using NPOI.DDF;
-    using NPOI.HSSF.Model;
-    using NPOI.HSSF.Record;
-    using NPOI.POIFS.FileSystem;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.Udf;
-    using NPOI.SS.UserModel;
-    using NPOI.SS.Util;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.Udf;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.Util;
+    using jp.co.systembase.NPOI.Util;
     using System.Globalization;
     using System.Security.Cryptography;
     using System.Reflection;

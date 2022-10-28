@@ -19,7 +19,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// A DirectoryEntry filter, which exposes another  DirectoryEntry less certain parts.

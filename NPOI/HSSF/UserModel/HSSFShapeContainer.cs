@@ -16,7 +16,7 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System.Collections.Generic;
 

@@ -15,14 +15,14 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
 
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
-    using NPOI.SS.Formula.Constant;
+    using jp.co.systembase.NPOI.SS.Formula.Constant;
 
     /**
      * Title:       CRN  

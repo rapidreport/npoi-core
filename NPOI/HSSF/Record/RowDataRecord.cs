@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     /// <summary>
     /// this record only used for record that has name and not implemented.

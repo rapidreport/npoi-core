@@ -1,8 +1,8 @@
 ﻿using System;
-using NPOI.SS.Formula.Eval;
-using NPOI.SS.Formula.Functions;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Functions;
 
-namespace NPOI.SS.Formula
+namespace jp.co.systembase.NPOI.SS.Formula
 {
     public class UserDefinedFunction : FreeRefFunction
     {

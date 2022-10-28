@@ -14,10 +14,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-using NPOI.SS.UserModel;
-using NPOI.XSSF.UserModel;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.XSSF.UserModel;
 using System;
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
     public class XSSFCreationHelper : ICreationHelper
     {

@@ -16,14 +16,14 @@
 ==================================================================== */
 
 
-namespace NPOI.SS.Formula.Eval.Forked
+namespace jp.co.systembase.NPOI.SS.Formula.Eval.Forked
 {
     using System;
     using System.Collections.Generic;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.SS.Formula.Udf;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.Udf;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     /**
      * Represents a workbook being used for forked Evaluation. Most operations are delegated to the

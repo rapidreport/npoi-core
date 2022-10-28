@@ -2,7 +2,7 @@
 using System.Xml.Serialization;
 using System.Xml;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
     public class ChartsheetDocument
     {

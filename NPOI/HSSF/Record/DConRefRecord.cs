@@ -17,9 +17,9 @@
 
 using System;
 using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     /**
  * DConRef records specify a range in a workbook (internal or external) that serves as a data source

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace NPOI.HSSF
+namespace jp.co.systembase.NPOI.HSSF
 {
     [StructLayout(LayoutKind.Sequential)]
     struct FrtHeader

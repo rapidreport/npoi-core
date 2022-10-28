@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
     [Serializable]
     public class EncryptedDocumentException : InvalidOperationException

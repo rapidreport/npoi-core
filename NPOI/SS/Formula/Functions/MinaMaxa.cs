@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     public class Maxa : MinaMaxa
     {

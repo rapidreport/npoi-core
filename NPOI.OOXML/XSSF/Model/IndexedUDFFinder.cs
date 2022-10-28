@@ -15,11 +15,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.XSSF.Model
+namespace jp.co.systembase.NPOI.XSSF.Model
 {
-    using NPOI.SS.Formula.Udf;
+    using jp.co.systembase.NPOI.SS.Formula.Udf;
     using System.Collections.Generic;
-    using NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
     using System;
     /**
      * A UDFFinder that can retrieve functions both by name and by fake index.

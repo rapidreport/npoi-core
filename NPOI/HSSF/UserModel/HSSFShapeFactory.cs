@@ -16,11 +16,11 @@
 ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.DDF;
-using NPOI.HSSF.Record;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.DDF;
+using jp.co.systembase.NPOI.HSSF.Record;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     /**
      * @author Evgeniy Berlog

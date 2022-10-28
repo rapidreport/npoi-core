@@ -17,13 +17,13 @@
 
 
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
     using System;
     using System.Text;
     using System.Text.RegularExpressions;
-    using NPOI.SS.Formula;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.UserModel;
     using System.Globalization;
 
     public enum NameType:int

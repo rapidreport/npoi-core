@@ -31,7 +31,7 @@ using System.IO;
 using System.Globalization;
 
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     /// <summary>
     /// dump data in hexadecimal format; derived from a HexDump utility I

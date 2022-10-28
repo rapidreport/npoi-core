@@ -14,16 +14,16 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.SS.Converter
+namespace jp.co.systembase.NPOI.SS.Converter
 {
     using System;
     using System.Text;
     using System.IO;
 
-    using NPOI.HSSF.UserModel;
-    using NPOI.SS.UserModel;
-    using NPOI.HSSF.Util;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.SS.Util;
 
     public class ExcelToHtmlUtils
     {

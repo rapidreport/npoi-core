@@ -15,17 +15,17 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Extractor
+namespace jp.co.systembase.NPOI.HSSF.Extractor
 {
     using System;
     using System.Text;
 
-    using NPOI.HSSF.UserModel;
-    using NPOI.POIFS.FileSystem;
-    using NPOI;
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.UserModel;
-    using NPOI.SS.Extractor;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.Extractor;
 
     /// <summary>
     /// A text extractor for Excel files.

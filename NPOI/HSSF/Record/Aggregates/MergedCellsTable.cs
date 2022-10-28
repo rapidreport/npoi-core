@@ -15,15 +15,15 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
 
     using System;
     using System.Collections.Generic;
-    using NPOI.HSSF.Model;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
     /**
      * 
      * @author Josh Micich

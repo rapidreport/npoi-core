@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.Record.CF;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record.CF;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     /// <summary>
     /// High level representation for Conditional Formatting Settings

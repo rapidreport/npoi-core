@@ -11,7 +11,7 @@ using System.Diagnostics;
 using System.Xml.Serialization;
 using System.Collections.Generic;
 
-namespace NPOI.OpenXmlFormats
+namespace jp.co.systembase.NPOI.OpenXmlFormats
 {
     [Serializable]
     [DebuggerStepThrough]

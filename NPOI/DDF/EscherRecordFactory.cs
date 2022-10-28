@@ -16,7 +16,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
 
     /// <summary>

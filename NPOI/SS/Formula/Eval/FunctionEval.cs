@@ -19,13 +19,13 @@
  *
  */
 
-using NPOI.SS.Formula.Atp;
+using jp.co.systembase.NPOI.SS.Formula.Atp;
 
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
     using System;
-    using NPOI.SS.Formula.Functions;
-    using NPOI.SS.Formula.Function;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Formula.Function;
     using System.Collections.Generic;
     using System.Collections.ObjectModel;
 

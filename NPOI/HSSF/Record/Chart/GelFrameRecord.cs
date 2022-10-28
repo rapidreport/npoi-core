@@ -15,10 +15,10 @@
    limitations Under the License.
 ==================================================================== */
 
-//using NPOI.HSSF.Record.Drawing;
-//using NPOI.SS.UserModel.Drawing;
+//using jp.co.systembase.NPOI.HSSF.Record.Drawing;
+//using jp.co.systembase.NPOI.SS.UserModel.Drawing;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// specifies the properties of a fill pattern for parts of a chart.

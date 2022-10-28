@@ -13,12 +13,12 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System.Collections;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /// <summary>
     /// Excel can Get cranky if you give it files containing too

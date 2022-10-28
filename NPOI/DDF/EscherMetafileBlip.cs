@@ -14,13 +14,13 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
     using System;
     using System.IO;
     using System.Text;
     using System.Drawing;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using ICSharpCode.SharpZipLib.Zip.Compression.Streams;
     using ICSharpCode.SharpZipLib.Zip.Compression;
 

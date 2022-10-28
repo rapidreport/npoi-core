@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.PTG
+namespace jp.co.systembase.NPOI.SS.Formula.PTG
 {
 
     using System;
@@ -23,7 +23,7 @@ namespace NPOI.SS.Formula.PTG
     using System.Runtime.Serialization.Formatters.Binary;
     using System.Collections;
 
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
 
     /**

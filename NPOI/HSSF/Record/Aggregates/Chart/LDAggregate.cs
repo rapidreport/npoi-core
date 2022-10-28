@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-using NPOI.HSSF.Model;
-using NPOI.HSSF.Record.Chart;
+using jp.co.systembase.NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
 using System.Diagnostics;
 
-namespace NPOI.HSSF.Record.Aggregates.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates.Chart
 {
     /// <summary>
     /// LD = Legend Begin Pos ATTACHEDLABEL [FRAME] [CrtLayout12] [TEXTPROPS] [CRTMLFRT] End

@@ -15,14 +15,14 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Model
+namespace jp.co.systembase.NPOI.HSSF.Model
 {
     using System;
     using System.Collections;
     using System.Collections.Generic;
 
-    using NPOI.HSSF.Record;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
 
     /**
      * Link Table (OOO pdf reference: 4.10.3 ) <p/>

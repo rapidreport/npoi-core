@@ -14,11 +14,11 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
     using System;
 
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
     /**
          * Error style constants for error box
          */

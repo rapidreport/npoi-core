@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-using NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Model;
 using System.Diagnostics;
-using NPOI.HSSF.Record.Chart;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
 
-namespace NPOI.HSSF.Record.Aggregates.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates.Chart
 {
     /// <summary>
     /// SERIESAXIS = Axis Begin [CatSerRange] AXS [CRTMLFRT] End

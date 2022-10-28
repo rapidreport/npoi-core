@@ -16,7 +16,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
     /**
      * Interface for listening to escher serialization events.

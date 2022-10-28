@@ -15,16 +15,16 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
     using System.IO;
     using System.Collections;
 
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
-    using NPOI.POIFS.FileSystem;
-    using NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI.DDF;
 
 
     /**

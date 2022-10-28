@@ -30,7 +30,7 @@ using System;
 using System.Collections;
 using System.Configuration;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class POILogFactory
     {

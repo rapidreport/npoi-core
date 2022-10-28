@@ -15,12 +15,12 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Model
+namespace jp.co.systembase.NPOI.HSSF.Model
 {
     using System;
     using System.Collections;
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.Record.Chart;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record.Chart;
 
     /// <summary>
     /// Simplifies iteration over a sequence of Record objects.

@@ -18,7 +18,7 @@
  * Created on May 21, 2005
  *
  */
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     using System;
     /**

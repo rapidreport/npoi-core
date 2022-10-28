@@ -18,11 +18,11 @@
  * Created on May 10, 2005
  *
  */
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
     using System;
-    using NPOI.SS.Formula.Functions;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Util;
 
     //public class RelationalValues
     //{

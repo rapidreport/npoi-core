@@ -18,12 +18,12 @@
 using System;
 using System.Text;
 using System.IO;
-using NPOI.POIFS.FileSystem;
-using NPOI.Util;
-using NPOI;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI;
 using System.Security.Cryptography;
 
-namespace NPOI.POIFS.Crypt
+namespace jp.co.systembase.NPOI.POIFS.Crypt
 {
     public abstract class Decryptor
     {

@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     public enum ObjectKind : short {
         AxisGroup = 0,

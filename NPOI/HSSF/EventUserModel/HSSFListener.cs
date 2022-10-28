@@ -16,9 +16,9 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.EventUserModel
+namespace jp.co.systembase.NPOI.HSSF.EventUserModel
 {
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /// <summary>
     /// Interface for use with the HSSFRequest and HSSFEventFactory.  Users should Create

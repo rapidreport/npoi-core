@@ -1,7 +1,7 @@
 ﻿using System;
-using NPOI.SS.Formula.Functions;
+using jp.co.systembase.NPOI.SS.Formula.Functions;
 
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
 
     public abstract class TwoOperandNumericOperation : Fixed2ArgFunction

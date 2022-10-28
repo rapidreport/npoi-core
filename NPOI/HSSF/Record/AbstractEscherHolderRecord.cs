@@ -16,16 +16,16 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
 
     using System;
     using System.Text;
     using System.Collections;
-    using NPOI.DDF;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.Util;
     using System.Collections.Generic;
-    using NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.HSSF.Util;
 
     /**
      * The escher container record is used to hold escher records.  It is abstract and

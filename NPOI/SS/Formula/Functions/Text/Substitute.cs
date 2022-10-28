@@ -18,11 +18,11 @@
  * Created on May 15, 2005
  *
  */
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     using System;
     using System.Text;
-    using NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
 
     /**
      * An implementation of the SUBSTITUTE function:

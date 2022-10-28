@@ -16,7 +16,7 @@
 ==================================================================== */
 using System;
 using System.Collections.Generic;
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     /// <summary>
     /// 24.08.2009 @author Stefan Stern

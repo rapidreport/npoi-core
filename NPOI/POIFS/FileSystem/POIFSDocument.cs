@@ -32,14 +32,14 @@ using System.IO;
 using System.Collections;
 using System.Collections.Generic;
 
-using NPOI.POIFS.Common;
-using NPOI.POIFS.Storage;
-using NPOI.POIFS.Dev;
-using NPOI.POIFS.Properties;
-using NPOI.POIFS.EventFileSystem;
-using NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.POIFS.Storage;
+using jp.co.systembase.NPOI.POIFS.Dev;
+using jp.co.systembase.NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.POIFS.EventFileSystem;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// This class manages a document in the POIFS filesystem.

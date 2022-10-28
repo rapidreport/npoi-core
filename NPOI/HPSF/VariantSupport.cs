@@ -27,7 +27,7 @@
 
 using System.Collections.Generic;
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     using System;
     using System.IO;

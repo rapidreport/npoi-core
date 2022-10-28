@@ -16,9 +16,9 @@
 */
 
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
-    using NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
 
     /**
      * Counts the number of cells that contain data within the list of arguments. 

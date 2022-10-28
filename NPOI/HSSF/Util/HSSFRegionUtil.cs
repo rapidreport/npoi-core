@@ -15,12 +15,12 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Util
+namespace jp.co.systembase.NPOI.HSSF.Util
 {
     using System;
 
-    using NPOI.HSSF.UserModel;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /// <summary>
     /// Various utility functions that make working with a region of cells easier.

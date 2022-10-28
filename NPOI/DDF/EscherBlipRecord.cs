@@ -16,11 +16,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using System.IO;
 
     /// <summary>

@@ -15,13 +15,13 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
 
     using System;
     using System.Collections;
-    using NPOI.Util;
-    using NPOI.DDF;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.DDF;
 
     public class DrawingGroupRecord : AbstractEscherHolderRecord
     {

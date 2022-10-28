@@ -22,12 +22,12 @@
  *
  * Created on November 9, 2001, 4:53 PM
  */
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using System;
     using System.Text;
-    using NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.HSSF.Util;
 
     /**
      * Used to store multiple RK numbers on a row.  1 MulRk = Multiple Cell values.

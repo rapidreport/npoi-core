@@ -15,12 +15,12 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.Atp
+namespace jp.co.systembase.NPOI.SS.Formula.Atp
 {
     using System;
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula.Functions;
-    using NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Formula;
     /**
      * Implementation of Excel 'Analysis ToolPak' function ISEVEN() ISODD()<br/>
      * 

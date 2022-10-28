@@ -27,9 +27,9 @@
 
 using System;
 
-using NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.POIFS.Properties;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// Abstract implementation of Entry

@@ -15,13 +15,13 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
     using System.Collections;
 
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Model;
 
     /// <summary>
     /// Rich text Unicode string.  These strings can have fonts applied to

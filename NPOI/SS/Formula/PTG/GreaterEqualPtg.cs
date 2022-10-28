@@ -16,7 +16,7 @@
 ==================================================================== */
 
 
-namespace NPOI.SS.Formula.PTG
+namespace jp.co.systembase.NPOI.SS.Formula.PTG
 {
     using System;
     using System.Text;

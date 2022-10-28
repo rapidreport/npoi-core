@@ -17,11 +17,11 @@
  * ====================================================================
  */
 
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
     using System;
 
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      * The 'Conditional Formatting' facet of <c>Sheet</c>

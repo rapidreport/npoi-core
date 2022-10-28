@@ -14,12 +14,12 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Util
+namespace jp.co.systembase.NPOI.HSSF.Util
 {
 
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using System.Collections;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record;
     /**
      * <p>Title: HSSFCellRangeAddress</p>
      * <p>Description:

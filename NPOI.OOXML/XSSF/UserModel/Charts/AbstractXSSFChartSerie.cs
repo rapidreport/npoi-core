@@ -1,11 +1,11 @@
-﻿using NPOI.OpenXmlFormats.Dml.Chart;
-using NPOI.SS.UserModel.Charts;
-using NPOI.SS.Util;
+﻿using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Chart;
+using jp.co.systembase.NPOI.SS.UserModel.Charts;
+using jp.co.systembase.NPOI.SS.Util;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NPOI.XSSF.UserModel.Charts
+namespace jp.co.systembase.NPOI.XSSF.UserModel.Charts
 {
     public class AbstractXSSFChartSerie : IChartSerie
     {

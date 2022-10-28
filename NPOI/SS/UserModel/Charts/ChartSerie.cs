@@ -1,9 +1,9 @@
-﻿using NPOI.SS.Util;
+﻿using jp.co.systembase.NPOI.SS.Util;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NPOI.SS.UserModel.Charts
+namespace jp.co.systembase.NPOI.SS.UserModel.Charts
 {
     public enum TitleType
     {

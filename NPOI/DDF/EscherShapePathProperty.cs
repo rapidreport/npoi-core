@@ -16,7 +16,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
     /// <summary>
     /// Defines the constants for the various possible shape paths.

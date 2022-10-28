@@ -25,10 +25,10 @@
  * 
  * ==============================================================*/
 
-using NPOI.POIFS.Common;
-using NPOI.POIFS.Storage;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.POIFS.Storage;
 
-namespace NPOI.POIFS.Properties
+namespace jp.co.systembase.NPOI.POIFS.Properties
 {
     public class RootProperty:DirectoryProperty
     {

@@ -30,7 +30,7 @@ using System;
 using System.Text;
 using System.IO;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// Class POIFSDocumentPath

@@ -28,7 +28,7 @@
 using System;
 using System.Collections;
 
-namespace NPOI.Util.Collections
+namespace jp.co.systembase.NPOI.Util.Collections
 {
     /// <summary>
     /// This class comes from Java

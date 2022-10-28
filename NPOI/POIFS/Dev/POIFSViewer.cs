@@ -31,9 +31,9 @@ using System.IO;
 using System.Collections;
 
 
-namespace NPOI.POIFS.Dev
+namespace jp.co.systembase.NPOI.POIFS.Dev
 {
-    using NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
 
     public class POIFSViewer
     {

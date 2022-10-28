@@ -5,7 +5,7 @@ using System.Xml.Serialization;
 using System.IO;
 using System.Xml;
 
-namespace NPOI.OpenXmlFormats.Wordprocessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing
 {
     public class DocumentDocument
     {

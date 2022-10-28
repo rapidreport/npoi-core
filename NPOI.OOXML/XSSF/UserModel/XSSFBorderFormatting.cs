@@ -14,9 +14,9 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-using NPOI.SS.UserModel;
-using NPOI.OpenXmlFormats.Spreadsheet;
-namespace NPOI.XSSF.UserModel
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
 /**

@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Util
+namespace jp.co.systembase.NPOI.HSSF.Util
 {
     using System;
     using System.Collections;
-    using NPOI.HSSF.UserModel;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
     using System.Collections.Generic;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /// <summary>
     /// Various utility functions that make working with a cells and rows easier.  The various

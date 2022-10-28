@@ -14,10 +14,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
-    using NPOI.HPSF;
-    using NPOI.HPSF.Extractor;
+    using jp.co.systembase.NPOI.HPSF;
+    using jp.co.systembase.NPOI.HPSF.Extractor;
 
     /// <summary>
     /// Common Parent for OLE2 based Text Extractors

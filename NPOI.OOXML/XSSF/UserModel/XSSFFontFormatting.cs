@@ -16,9 +16,9 @@
  *    limitations under the License.
  * ====================================================================
  */
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.SS.UserModel;
-namespace NPOI.XSSF.UserModel
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.SS.UserModel;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
 

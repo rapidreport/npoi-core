@@ -17,9 +17,9 @@
 ==================================================================== */
 
 using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// pecifies positioning mode for position information saved in a Pos record.

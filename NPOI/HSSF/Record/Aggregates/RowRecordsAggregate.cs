@@ -17,15 +17,15 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
     using System;
     using System.Collections;
-    using NPOI.HSSF.Record;
-    using NPOI.SS.Formula;
-    using NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.HSSF.Model;
     using System.Collections.Generic;
-    using NPOI.HSSF.Record.Chart;
+    using jp.co.systembase.NPOI.HSSF.Record.Chart;
 
     /**
      *

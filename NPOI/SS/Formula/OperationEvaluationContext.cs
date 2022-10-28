@@ -1,13 +1,13 @@
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.SS.Formula
+namespace jp.co.systembase.NPOI.SS.Formula
 {
     using System;
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula.Functions;
-    using NPOI.SS.Util;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
     using System.Globalization;
     /**
      * Contains all the contextual information required to Evaluate an operation

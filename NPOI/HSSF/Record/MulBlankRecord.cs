@@ -22,9 +22,9 @@
  *
  * Created on December 10, 2001, 12:49 PM
  */
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using System;
     using System.Text;
 

@@ -27,13 +27,13 @@
 
 using System.Collections.Generic;
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     using System;
     using System.IO;
-    using NPOI.HPSF.Wellknown;
-    using NPOI.POIFS.FileSystem;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HPSF.Wellknown;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// Abstract superclass for the convenience classes {@link

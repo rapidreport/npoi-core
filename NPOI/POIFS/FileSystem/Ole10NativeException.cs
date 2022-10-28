@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     using System;
 

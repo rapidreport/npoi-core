@@ -4,9 +4,9 @@ using System.Xml.Serialization;
 using System.Collections.Generic;
 using System.Xml;
 using System.IO;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 
-namespace NPOI.OpenXmlFormats.Dml
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Dml
 {
     [Serializable]
     

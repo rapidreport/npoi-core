@@ -15,11 +15,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.EventUserModel.DummyRecord
+namespace jp.co.systembase.NPOI.HSSF.EventUserModel.DummyRecord
 {
 
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      */

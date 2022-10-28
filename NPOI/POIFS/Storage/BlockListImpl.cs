@@ -18,7 +18,7 @@
 using System;
 using System.IO;
 
-namespace NPOI.POIFS.Storage
+namespace jp.co.systembase.NPOI.POIFS.Storage
 {
     public class BlockListImpl:BlockList
     {

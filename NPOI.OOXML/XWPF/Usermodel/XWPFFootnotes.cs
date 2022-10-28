@@ -15,12 +15,12 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.XWPF.UserModel
+namespace jp.co.systembase.NPOI.XWPF.UserModel
 {
     using System;
     using System.Collections.Generic;
-    using NPOI.OpenXmlFormats.Wordprocessing;
-    using NPOI.OpenXml4Net.OPC;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC;
     using System.IO;
     using System.Xml;
     using System.Xml.Serialization;

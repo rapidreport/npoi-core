@@ -1,7 +1,7 @@
 ﻿using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// The Chart3d record specifies that the plot area of the chart group is rendered in a 3-D scene 

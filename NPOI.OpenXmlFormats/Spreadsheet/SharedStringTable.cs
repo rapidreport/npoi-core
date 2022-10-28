@@ -11,9 +11,9 @@ using System.ComponentModel;
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
 
 

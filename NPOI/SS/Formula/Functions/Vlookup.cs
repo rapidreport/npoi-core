@@ -15,10 +15,10 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula;
     /**
      * Implementation of the VLOOKUP() function.<p/>
      * 

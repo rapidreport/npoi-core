@@ -15,15 +15,15 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
     using System.Collections;
-    using NPOI.DDF;
-    using NPOI.HSSF.UserModel;
-    using NPOI.HSSF.Model;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.Util;
     using System.Collections.Generic;
     using System.IO;
 

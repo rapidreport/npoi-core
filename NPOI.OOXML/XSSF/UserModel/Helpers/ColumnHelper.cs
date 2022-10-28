@@ -16,10 +16,10 @@
 ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.SS.UserModel;
-using NPOI.XSSF.Util;
-namespace NPOI.XSSF.UserModel.Helpers
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.XSSF.Util;
+namespace jp.co.systembase.NPOI.XSSF.UserModel.Helpers
 {
     /**
      * Helper class for dealing with the Column Settings on

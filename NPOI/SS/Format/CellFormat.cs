@@ -15,11 +15,11 @@
   limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Format
+namespace jp.co.systembase.NPOI.SS.Format
 {
     using System;
 
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
     using System.Text.RegularExpressions;
     using System.Collections.Generic;
     using System.Drawing;

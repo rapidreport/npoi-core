@@ -17,7 +17,7 @@
  * ====================================================================
  */
 
-namespace NPOI.SS.UserModel.Charts
+namespace jp.co.systembase.NPOI.SS.UserModel.Charts
 {
     public interface IChartDataSource<T>
     {

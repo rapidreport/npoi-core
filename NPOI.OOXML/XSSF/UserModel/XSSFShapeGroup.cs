@@ -16,11 +16,11 @@
 ==================================================================== */
 
 using System;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.OpenXmlFormats.Dml;
-using NPOI.OpenXmlFormats.Dml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Spreadsheet;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
     /**
      * This object specifies a group shape that represents many shapes grouped together. This shape is to be treated

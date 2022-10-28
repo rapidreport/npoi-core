@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
-    using NPOI.Util;
-    using NPOI.DDF;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /// <summary>
     /// @author Glen Stampoultzis  (glens at baselinksoftware.com)

@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.PTG
+namespace jp.co.systembase.NPOI.SS.Formula.PTG
 {
     using System;
-    using NPOI.Util;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      * ReferencePtg - handles references (such as A1, A2, IA4)

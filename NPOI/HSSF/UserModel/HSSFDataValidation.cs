@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
 
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.UserModel;
-    using NPOI.SS.UserModel;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      *Utility class for creating data validation cells

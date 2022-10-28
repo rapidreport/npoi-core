@@ -16,10 +16,10 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
     /**
      * Implementation of the HLOOKUP() function.<p/>
      * 

@@ -14,16 +14,16 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
     using System;
-    using NPOI.POIFS.Common;
-    using NPOI.Util;
-    using NPOI.OpenXml4Net.Exceptions;
+    using jp.co.systembase.NPOI.POIFS.Common;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
     using System.IO;
-    using NPOI.OpenXml4Net.OPC;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC;
     using System.Collections.Generic;
-    using NPOI.OpenXml4Net;
+    using jp.co.systembase.NPOI.OpenXml4Net;
     using System.Reflection;
 
     public abstract class POIXMLDocument : POIXMLDocumentPart

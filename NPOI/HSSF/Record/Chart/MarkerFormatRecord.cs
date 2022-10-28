@@ -16,9 +16,9 @@
 ==================================================================== */
 
 using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// specifies the color, size, and shape of the associated data markers that appear on line, radar, 

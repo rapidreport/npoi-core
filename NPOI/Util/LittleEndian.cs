@@ -31,7 +31,7 @@
 using System;
 using System.IO;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     /// <summary>
     /// a utility class for handling little-endian numbers, which the 80x86 world is

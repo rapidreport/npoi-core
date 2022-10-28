@@ -16,11 +16,11 @@
 ==================================================================== */
 
 using System;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.OpenXmlFormats.Dml.Picture;
-using NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Picture;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
 
-namespace NPOI.XWPF.UserModel
+namespace jp.co.systembase.NPOI.XWPF.UserModel
 {
 
     /**

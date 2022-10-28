@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Format
+namespace jp.co.systembase.NPOI.SS.Format
 {
     using System;
     internal class GeneralCellFormatType : CellFormatType

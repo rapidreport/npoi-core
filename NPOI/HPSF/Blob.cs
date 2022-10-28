@@ -1,6 +1,6 @@
-﻿using NPOI.Util;
+﻿using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     internal class Blob
     {

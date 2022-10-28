@@ -27,7 +27,7 @@
 using System;
 using System.IO;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// This class provides a wrapper over an OutputStream so that Document

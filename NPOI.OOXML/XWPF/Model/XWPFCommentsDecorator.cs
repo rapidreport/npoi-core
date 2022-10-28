@@ -14,13 +14,13 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.XWPF.Model
+namespace jp.co.systembase.NPOI.XWPF.Model
 {
     using System;
 
-    using NPOI.XWPF.UserModel;
+    using jp.co.systembase.NPOI.XWPF.UserModel;
     using System.Text;
-    using NPOI.OpenXmlFormats.Wordprocessing;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing;
 
     /**
      * Decorator class for XWPFParagraph allowing to add comments 

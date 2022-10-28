@@ -20,9 +20,9 @@ using System;
 using System.Text;
 using System.Xml;
 using System.IO;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
-namespace NPOI.POIFS.Crypt
+namespace jp.co.systembase.NPOI.POIFS.Crypt
 {
     public class EncryptionVerifier
     {

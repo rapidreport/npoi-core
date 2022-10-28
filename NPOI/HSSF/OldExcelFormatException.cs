@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NPOI.HSSF
+namespace jp.co.systembase.NPOI.HSSF
 {
     [Serializable]
     public class OldExcelFormatException:Exception

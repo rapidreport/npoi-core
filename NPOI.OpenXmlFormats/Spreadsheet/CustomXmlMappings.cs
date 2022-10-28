@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
 
     [Serializable]

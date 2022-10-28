@@ -25,7 +25,7 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.POIFS.Common
+namespace jp.co.systembase.NPOI.POIFS.Common
 {
     /// <summary>
     /// A repository for constants shared by POI classes.

@@ -15,13 +15,13 @@
 * limitations Under the License.
 */
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     using System;
     using System.Collections;
-    using NPOI.Util;
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula;
     /**
      * @author Amol S. Deshmukh &lt; amolweb at ya hoo dot com &gt;
      *

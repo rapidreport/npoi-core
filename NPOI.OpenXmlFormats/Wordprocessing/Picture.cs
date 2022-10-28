@@ -4,9 +4,9 @@ using System.Xml.Serialization;
 using System.Text;
 using System.Collections.Generic;
 using System.IO;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 
-namespace NPOI.OpenXmlFormats.Wordprocessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing
 {
     [XmlInclude(typeof(CT_Picture))]
     [XmlInclude(typeof(CT_Object))]

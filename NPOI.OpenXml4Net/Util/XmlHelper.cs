@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml;
 
-namespace NPOI.OpenXml4Net.Util
+namespace jp.co.systembase.NPOI.OpenXml4Net.Util
 {
     public static class XmlHelper
     {

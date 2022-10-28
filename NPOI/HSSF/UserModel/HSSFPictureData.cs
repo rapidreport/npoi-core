@@ -15,12 +15,12 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
-    using NPOI.DDF;
-    using NPOI.SS.UserModel;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// Represents binary data stored in the file.  Eg. A GIF, JPEG etc...

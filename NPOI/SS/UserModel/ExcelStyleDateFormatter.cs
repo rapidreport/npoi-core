@@ -19,9 +19,9 @@ using System;
 using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
-using NPOI.SS.Util;
+using jp.co.systembase.NPOI.SS.Util;
 
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
     /**
      * A wrapper around a {@link SimpleDateFormat} instance,

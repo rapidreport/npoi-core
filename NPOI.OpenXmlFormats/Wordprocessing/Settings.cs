@@ -1,13 +1,13 @@
-﻿using NPOI.OpenXml4Net.Util;
-using NPOI.OpenXmlFormats.Shared;
+﻿using jp.co.systembase.NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXmlFormats.Shared;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
-//using NPOI.OpenXmlFormats.Shared;
+//using jp.co.systembase.NPOI.OpenXmlFormats.Shared;
 
-namespace NPOI.OpenXmlFormats.Wordprocessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing
 {
 
 

@@ -14,18 +14,18 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.XWPF.UserModel
+namespace jp.co.systembase.NPOI.XWPF.UserModel
 {
     using System;
-    using NPOI.OpenXmlFormats.Wordprocessing;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing;
     using System.Collections.Generic;
     using System.Text;
     using System.Xml;
     using System.IO;
-    using NPOI.XWPF.Util;
-    using NPOI.OpenXmlFormats.Dml;
+    using jp.co.systembase.NPOI.XWPF.Util;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
     using System.Xml.Serialization;
-    using NPOI.OpenXmlFormats.Dml.WordProcessing;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Dml.WordProcessing;
     /**
      * XWPFrun.object defines a region of text with a common Set of properties
      *

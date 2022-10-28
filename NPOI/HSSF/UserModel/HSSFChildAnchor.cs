@@ -16,9 +16,9 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
-    using NPOI.DDF;
+    using jp.co.systembase.NPOI.DDF;
     using System;
 
     public class HSSFChildAnchor : HSSFAnchor

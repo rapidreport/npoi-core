@@ -17,13 +17,13 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
     using System.IO;
 
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Subrecords are part of the OBJ class.

@@ -2,17 +2,17 @@ using System;
 using System.Collections.Generic;
 using System.Xml.Schema;
 using System.Xml.Serialization;
-using NPOI.OpenXmlFormats.Vml.Wordprocessing;
-using NPOI.OpenXmlFormats.Vml.Office;
-using NPOI.OpenXmlFormats.Vml.Spreadsheet;
-using NPOI.OpenXmlFormats.Vml.Presentation;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Wordprocessing;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Office;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Presentation;
 using System.IO;
 using System.Xml;
 using System.Text;
 using System.ComponentModel;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 
-namespace NPOI.OpenXmlFormats.Vml
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Vml
 {
     [Serializable]
 

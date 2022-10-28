@@ -17,7 +17,7 @@
 using System.IO;
 using System;
 using System.Collections.Generic;
-namespace NPOI.XSSF.Util
+namespace jp.co.systembase.NPOI.XSSF.Util
 {
 
 

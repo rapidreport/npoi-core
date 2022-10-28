@@ -18,11 +18,11 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
 using System.Xml;
 
-namespace NPOI.XSSF.Model
+namespace jp.co.systembase.NPOI.XSSF.Model
 {
 
     /**

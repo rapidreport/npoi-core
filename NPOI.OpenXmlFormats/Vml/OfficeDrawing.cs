@@ -1,14 +1,14 @@
 using System;
 using System.ComponentModel;
 using System.Xml.Serialization;
-using NPOI.OpenXmlFormats.Vml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Spreadsheet;
 using System.Collections.Generic;
 using System.Xml;
 using System.IO;
 using System.Text;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 
-namespace NPOI.OpenXmlFormats.Vml.Office
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Vml.Office
 {
     
     

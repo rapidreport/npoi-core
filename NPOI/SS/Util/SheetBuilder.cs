@@ -15,10 +15,10 @@
    limitations under the License.
    ==================================================================== */
 using System;
-using NPOI.SS.UserModel;
-using NPOI.Util;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
 
     /**

@@ -15,12 +15,12 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Model
+namespace jp.co.systembase.NPOI.HSSF.Model
 {
     using System;
 
-    using NPOI.SS.Formula.Function;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.Function;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
     /**
      * Represents a syntactic element from a formula by encapsulating the corresponding <c>Ptg</c>
      * token.  Each <c>ParseNode</c> may have child <c>ParseNode</c>s in the case when the wrapped

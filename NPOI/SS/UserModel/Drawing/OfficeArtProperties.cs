@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NPOI.SS.UserModel.Drawing
+namespace jp.co.systembase.NPOI.SS.UserModel.Drawing
 {
     public static class OfficeArtProperties
     {

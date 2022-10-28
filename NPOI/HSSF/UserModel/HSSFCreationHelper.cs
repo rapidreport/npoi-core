@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     public class HSSFCreationHelper : ICreationHelper
     {

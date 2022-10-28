@@ -1,12 +1,12 @@
-﻿using NPOI.OpenXmlFormats.Vml.Spreadsheet;
-using NPOI.OpenXmlFormats.Vml.Wordprocessing;
+﻿using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Wordprocessing;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Xml;
 
-namespace NPOI.OpenXmlFormats.Util
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Util
 {
     public static class XmlHelper
     {

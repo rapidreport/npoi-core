@@ -16,10 +16,10 @@
 ==================================================================== */
 
 using System;
-using NPOI.SS.Formula.Eval;
-using NPOI.Util;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.SS.Formula.Atp
+namespace jp.co.systembase.NPOI.SS.Formula.Atp
 {
     /**
      * Parser for java dates.

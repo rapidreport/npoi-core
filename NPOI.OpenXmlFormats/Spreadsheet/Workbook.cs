@@ -11,10 +11,10 @@ using System.ComponentModel;
 using System.IO;
 using System.Xml.Serialization;
 using System.Xml;
-using NPOI.OpenXml4Net.Util;
-using NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
 
 

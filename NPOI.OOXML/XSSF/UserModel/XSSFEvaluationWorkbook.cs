@@ -16,16 +16,16 @@
 ==================================================================== */
 
 using System;
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.SS;
-using NPOI.SS.Formula;
-using NPOI.SS.Formula.Functions;
-using NPOI.SS.Formula.PTG;
-using NPOI.SS.Formula.Udf;
-using NPOI.SS.UserModel;
-using NPOI.XSSF.Model;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.SS;
+using jp.co.systembase.NPOI.SS.Formula;
+using jp.co.systembase.NPOI.SS.Formula.Functions;
+using jp.co.systembase.NPOI.SS.Formula.PTG;
+using jp.co.systembase.NPOI.SS.Formula.Udf;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.XSSF.Model;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
     /**
      * Internal POI use only

@@ -16,12 +16,12 @@
 ==================================================================== */
 
 using System;
-using NPOI.HSSF.UserModel;
-using NPOI.SS.Formula;
-using NPOI.SS.Formula.Eval;
-using NPOI.SS.Formula.Udf;
-using NPOI.SS.UserModel;
-namespace NPOI.SS.Formula.Eval.Forked
+using jp.co.systembase.NPOI.HSSF.UserModel;
+using jp.co.systembase.NPOI.SS.Formula;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Udf;
+using jp.co.systembase.NPOI.SS.UserModel;
+namespace jp.co.systembase.NPOI.SS.Formula.Eval.Forked
 {
 
 

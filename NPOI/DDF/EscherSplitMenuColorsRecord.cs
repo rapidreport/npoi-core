@@ -18,10 +18,10 @@
 
 using System.Text;
 
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
     using System;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// A list of the most recently used colours for the drawings contained in

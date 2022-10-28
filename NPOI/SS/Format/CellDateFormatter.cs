@@ -18,10 +18,10 @@
 using System;
 using System.Text.RegularExpressions;
 using System.Text;
-using NPOI.SS.Util;
+using jp.co.systembase.NPOI.SS.Util;
 using System.Globalization;
 
-namespace NPOI.SS.Format
+namespace jp.co.systembase.NPOI.SS.Format
 {
     /**
      * Formats a date value.

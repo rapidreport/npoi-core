@@ -15,11 +15,11 @@
  * limitations Under the License.
  */
 
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
     using System;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
 
 
     /**

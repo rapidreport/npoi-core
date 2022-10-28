@@ -17,15 +17,15 @@
 
 using System.Xml;
 using System.Collections.Generic;
-using NPOI.SS.Util;
+using jp.co.systembase.NPOI.SS.Util;
 using System;
-using NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 using System.IO;
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.Util;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.Util;
 using System.Collections;
-using NPOI.XSSF.UserModel.Helpers;
-namespace NPOI.XSSF.UserModel
+using jp.co.systembase.NPOI.XSSF.UserModel.Helpers;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

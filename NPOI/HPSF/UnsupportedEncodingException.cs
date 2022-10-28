@@ -17,7 +17,7 @@
 using System;
 using System.IO;
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     /**
      * The Character Encoding is not supported.

@@ -15,15 +15,15 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
 
     using System;
     using System.Collections;
-    using NPOI.HSSF.Model;
-    using NPOI.HSSF.Record;
-    using NPOI.SS.UserModel;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.Util;
     using System.Collections.Generic;
     /**
      * Groups the page settings records for a worksheet.<p/>

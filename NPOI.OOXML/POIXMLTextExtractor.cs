@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
     using System;
-    using NPOI.OpenXml4Net.OPC;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 
     public abstract class POIXMLTextExtractor : POITextExtractor
     {

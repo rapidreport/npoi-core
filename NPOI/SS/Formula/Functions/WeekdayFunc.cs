@@ -17,10 +17,10 @@
  * ====================================================================
  */
 using System;
-using NPOI.SS.Formula.Eval;
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.UserModel;
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     /**
  * Implementation for the Excel function WEEKDAY

@@ -15,12 +15,12 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
-    using NPOI.DDF;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
     using System;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
     /// <summary>
     /// Represents a simple shape such as a line, rectangle or oval.
     /// @author Glen Stampoultzis (glens at apache.org)

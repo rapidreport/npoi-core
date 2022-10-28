@@ -17,10 +17,10 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using NPOI.SS.Formula.Functions;
-using NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Functions;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
 
-namespace NPOI.SS.Formula.Atp
+namespace jp.co.systembase.NPOI.SS.Formula.Atp
 {
     class IfError : FreeRefFunction
     {

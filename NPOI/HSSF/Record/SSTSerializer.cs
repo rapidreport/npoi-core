@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
-    using NPOI.HSSF.Record.Cont;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record.Cont;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * This class handles serialization of SST records.  It utilizes the record processor

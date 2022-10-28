@@ -29,11 +29,11 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-using NPOI.Util;
-using NPOI.POIFS.EventFileSystem;
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.EventFileSystem;
 
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// This interface defines methods specific to Directory objects

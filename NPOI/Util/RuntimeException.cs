@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     [Serializable]
     public class RuntimeException:Exception

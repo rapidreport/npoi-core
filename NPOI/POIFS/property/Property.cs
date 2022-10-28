@@ -30,11 +30,11 @@ using System.Text;
 using System.Collections;
 using System.IO;
 
-using NPOI.POIFS.Dev;
-using NPOI.POIFS.Common;
-using NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.Dev;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.POIFS.Properties
+namespace jp.co.systembase.NPOI.POIFS.Properties
 {
     /// <summary>
     /// This abstract base class is the ancestor of all classes

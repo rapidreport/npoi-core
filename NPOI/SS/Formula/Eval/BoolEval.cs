@@ -18,11 +18,11 @@
  * Created on May 8, 2005
  *
  */
-namespace NPOI.SS.Formula.Eval
+namespace jp.co.systembase.NPOI.SS.Formula.Eval
 {
     using System;
     using System.Text;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
 
 
     /**

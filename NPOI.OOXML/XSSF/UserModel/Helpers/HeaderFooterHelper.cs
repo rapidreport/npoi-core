@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.XSSF.UserModel.Helpers
+namespace jp.co.systembase.NPOI.XSSF.UserModel.Helpers
 {
     using System;
     using System.Text;

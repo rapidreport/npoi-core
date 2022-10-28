@@ -16,14 +16,14 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
 
     using System;
-    using NPOI.HSSF.Record;
-    using NPOI.SS.Util;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// The formula record aggregate is used to join toGether the formula record and it's

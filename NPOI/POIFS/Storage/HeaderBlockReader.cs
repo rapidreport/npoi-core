@@ -29,13 +29,13 @@
 using System;
 using System.IO;
 
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-using NPOI.POIFS.Common;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
 
-namespace NPOI.POIFS.Storage
+namespace jp.co.systembase.NPOI.POIFS.Storage
 {
 
     /// <summary>

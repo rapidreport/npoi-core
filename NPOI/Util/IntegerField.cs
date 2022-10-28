@@ -30,7 +30,7 @@ using System;
 using System.IO;
 using System.Globalization;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class IntegerField:FixedField
     {

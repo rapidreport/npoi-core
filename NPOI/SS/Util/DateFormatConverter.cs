@@ -19,9 +19,9 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
     /**
      *  Convert DateFormat patterns into Excel custom number formats.

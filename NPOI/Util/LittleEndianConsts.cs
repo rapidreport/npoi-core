@@ -27,7 +27,7 @@
 
 using System;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class LittleEndianConsts
     {

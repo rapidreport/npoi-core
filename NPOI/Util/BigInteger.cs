@@ -3,7 +3,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Globalization;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class BigInteger : IComparable<BigInteger>
     {

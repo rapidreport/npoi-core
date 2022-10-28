@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.SS.UserModel;
 using System;
-using Spreadsheet=NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.OpenXmlFormats.Dml;
-using Dml = NPOI.OpenXmlFormats.Dml;
-using NPOI.XSSF.Model;
-namespace NPOI.XSSF.UserModel
+using Spreadsheet=jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
+using Dml = jp.co.systembase.NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.XSSF.Model;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

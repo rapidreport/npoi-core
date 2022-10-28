@@ -16,12 +16,12 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Model
+namespace jp.co.systembase.NPOI.HSSF.Model
 {
     using System;
-    using NPOI.DDF;
-    using NPOI.HSSF.UserModel;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /// <summary>
     /// Represents an textbox shape and Converts between the highlevel records

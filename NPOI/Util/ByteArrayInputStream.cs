@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class ByteArrayInputStream : Stream
     {

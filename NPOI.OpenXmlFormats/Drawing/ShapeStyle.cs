@@ -1,12 +1,12 @@
 
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 using System;
 using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
 
-namespace NPOI.OpenXmlFormats.Dml
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Dml
 {
 
 

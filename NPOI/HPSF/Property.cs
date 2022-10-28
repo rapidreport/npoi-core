@@ -25,12 +25,12 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     using System;
     using System.Text;
     using System.Collections;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// A property in a {@link Section} of a {@link PropertySet}.

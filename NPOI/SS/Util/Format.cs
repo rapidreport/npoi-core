@@ -3,7 +3,7 @@ using System.Text;
 using System.Globalization;
 using System.Text.RegularExpressions;
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
     /// <summary>
     /// A substitute class for Format class in Java

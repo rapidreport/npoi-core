@@ -2,7 +2,7 @@
 using System;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Dml {
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Dml {
     
     
 

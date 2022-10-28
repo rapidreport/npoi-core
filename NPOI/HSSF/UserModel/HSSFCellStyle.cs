@@ -16,12 +16,12 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.Util;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     /// <summary>
     /// High level representation of the style of a cell in a sheet of a workbook.

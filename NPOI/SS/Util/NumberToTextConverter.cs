@@ -17,7 +17,7 @@
 
 using System;
 using System.Text;
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
 
 

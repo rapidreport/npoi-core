@@ -17,20 +17,20 @@
 
 using System.Xml;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
-    using NPOI.SS.UserModel;
-    using NPOI.OpenXmlFormats.Dml.Chart;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Chart;
     using System.Collections.Generic;
-    using NPOI.OpenXml4Net.OPC;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC;
     using System;
-    using NPOI.OpenXmlFormats;
+    using jp.co.systembase.NPOI.OpenXmlFormats;
     using System.IO;
     using System.Text;
-    using NPOI.SS.UserModel.Charts;
-    using NPOI.XSSF.UserModel.Charts;
+    using jp.co.systembase.NPOI.SS.UserModel.Charts;
+    using jp.co.systembase.NPOI.XSSF.UserModel.Charts;
     using System.Xml.Serialization;
-    using NPOI.OpenXmlFormats.Dml;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
 
     /**
      * Represents a SpreadsheetML Chart

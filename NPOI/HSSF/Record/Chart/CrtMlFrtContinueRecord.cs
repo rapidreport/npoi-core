@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// The CrtMlFrtContinue record specifies additional data for a CrtMlFrt record, as specified in the CrtMlFrt record.

@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.SS.Formula;
-using NPOI.XSSF.UserModel;
+using jp.co.systembase.NPOI.SS.Formula;
+using jp.co.systembase.NPOI.XSSF.UserModel;
 using System;
-using NPOI.SS.UserModel;
-using NPOI.HSSF.UserModel;
-using NPOI.SS.Formula.Eval;
-using NPOI.SS.Formula.Udf;
-namespace NPOI.XSSF.UserModel
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.HSSF.UserModel;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Udf;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

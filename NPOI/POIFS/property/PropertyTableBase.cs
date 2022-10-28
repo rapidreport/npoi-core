@@ -19,10 +19,10 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using NPOI.POIFS.FileSystem;
-using NPOI.POIFS.Storage;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.Storage;
 
-namespace NPOI.POIFS.Properties
+namespace jp.co.systembase.NPOI.POIFS.Properties
 {
     public abstract class PropertyTableBase : BATManaged
     {

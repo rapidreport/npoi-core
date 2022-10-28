@@ -15,9 +15,9 @@
    limitations Under the License.
 ==================================================================== */
 
-using NPOI.HSSF.Model;
-using NPOI.HSSF.Record.Chart;
-namespace NPOI.HSSF.Record.Aggregates.Chart
+using jp.co.systembase.NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates.Chart
 {
     /// <summary>
     /// AXM = YMult StartObject ATTACHEDLABEL EndObject

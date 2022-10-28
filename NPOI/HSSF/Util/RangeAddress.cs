@@ -20,7 +20,7 @@ using System;
 using System.Text;
 using System.Globalization;
 
-namespace NPOI.HSSF.Util
+namespace jp.co.systembase.NPOI.HSSF.Util
 {
 
 

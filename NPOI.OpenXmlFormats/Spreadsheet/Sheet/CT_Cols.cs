@@ -6,7 +6,7 @@ using System.Xml.Serialization;
 using System.Xml;
 using System.IO;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
 
     [Serializable]

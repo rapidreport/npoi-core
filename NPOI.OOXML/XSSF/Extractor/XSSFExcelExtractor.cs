@@ -14,14 +14,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-using NPOI.XSSF.UserModel;
+using jp.co.systembase.NPOI.XSSF.UserModel;
 using System;
-using NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 using System.Text;
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.SS.UserModel;
 using System.Collections;
 using System.Globalization;
-namespace NPOI.XSSF.Extractor
+namespace jp.co.systembase.NPOI.XSSF.Extractor
 {
     /**
      * Helper class to extract text from an OOXML Excel file

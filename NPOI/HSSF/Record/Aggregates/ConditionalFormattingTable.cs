@@ -15,16 +15,16 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
 
     using System;
     using System.Collections;
 
-    using NPOI.HSSF.Model;
-    using NPOI.HSSF.Record;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
 
     /**
      * Holds all the conditional formatting for a workbook sheet.<p/>

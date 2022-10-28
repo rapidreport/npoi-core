@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
-using NPOI.OpenXml4Net.Exceptions;
-using NPOI.OpenXml4Net.OPC.Internal.Marshallers;
-using NPOI.OpenXml4Net.OPC.Internal;
-using NPOI.OpenXml4Net.OPC.Internal.Unmarshallers;
-using NPOI.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal.Marshallers;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal.Unmarshallers;
+using jp.co.systembase.NPOI.Util;
 using System.Text.RegularExpressions;
 
-namespace NPOI.OpenXml4Net.OPC
+namespace jp.co.systembase.NPOI.OpenXml4Net.OPC
 {
     /**
      * Represents a container that can store multiple data objects.

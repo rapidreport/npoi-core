@@ -17,13 +17,13 @@
 
 using System;
 using System.IO;
-using NPOI.HSSF.UserModel;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.POIFS.FileSystem;
-using NPOI.Util;
-using NPOI.XSSF.UserModel;
+using jp.co.systembase.NPOI.HSSF.UserModel;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI.XSSF.UserModel;
 
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
     public enum ImportOption
     {

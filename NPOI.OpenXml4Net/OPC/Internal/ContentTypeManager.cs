@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using NPOI.OpenXml4Net.Exceptions;
+using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
 using System.IO;
 using System.Xml;
 using System.Xml.XPath;
 
-namespace NPOI.OpenXml4Net.OPC.Internal
+namespace jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal
 {
     /**
      * Manage package content types ([Content_Types].xml part).

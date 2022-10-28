@@ -22,11 +22,11 @@
  *
  * Created on December 10, 2001, 12:07 PM
  */
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
 
     /**

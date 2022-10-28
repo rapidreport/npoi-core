@@ -5,9 +5,9 @@ using System.Xml.Serialization;
 using System.ComponentModel;
 using System.IO;
 using System.Xml;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 
-namespace NPOI.OpenXmlFormats.Vml.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Vml.Spreadsheet
 {
 
     [Serializable]

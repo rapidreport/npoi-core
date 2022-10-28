@@ -12,14 +12,14 @@ using System.Collections;
 using System.Xml.Schema;
 using System.ComponentModel;
 using System.Collections.Generic;
-using NPOI.OpenXmlFormats.Shared;
-using NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXmlFormats.Shared;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
 using System.IO;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 using System.Xml;
-using NPOI.OpenXmlFormats.Dml.WordProcessing;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.WordProcessing;
 
-namespace NPOI.OpenXmlFormats.Wordprocessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing
 {
 
 

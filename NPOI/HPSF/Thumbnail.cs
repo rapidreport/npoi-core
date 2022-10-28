@@ -25,10 +25,10 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     using System;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /// <summary>
     /// Class To manipulate data in the Clipboard Variant (Variant#VT_CF VT_CF) format.

@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-using NPOI.HSSF.Record.Chart;
-using NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
+using jp.co.systembase.NPOI.HSSF.Model;
 using System.Diagnostics;
 
-namespace NPOI.HSSF.Record.Aggregates.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates.Chart
 {
     /// <summary>
     /// FRAME = Frame Begin LineFormat AreaFormat [GELFRAME] [SHAPEPROPS] End

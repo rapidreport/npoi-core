@@ -15,9 +15,9 @@
    limitations under the License.
    ==================================================================== */
 
-namespace NPOI.SS.Util.CellWalk
+namespace jp.co.systembase.NPOI.SS.Util.CellWalk
 {
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     /**
      * Represents callback for CellWalk traverse method.  

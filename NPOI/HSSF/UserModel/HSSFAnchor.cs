@@ -15,8 +15,8 @@
    limitations Under the License.
 ==================================================================== */
 
-using NPOI.DDF;
-namespace NPOI.HSSF.UserModel
+using jp.co.systembase.NPOI.DDF;
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
 
 

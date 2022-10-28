@@ -15,14 +15,14 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
     using System.Collections;
     using System.IO;
     using System.Drawing;
     using System.Configuration;
-    using NPOI.Util.Collections;
+    using jp.co.systembase.NPOI.Util.Collections;
 
     /**
      * Allows the user to lookup the font metrics for a particular font without

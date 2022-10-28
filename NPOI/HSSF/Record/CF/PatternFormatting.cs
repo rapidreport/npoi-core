@@ -23,13 +23,13 @@
  * Created on January 22, 2008, 10:05 PM
  */
 
-namespace NPOI.HSSF.Record.CF
+namespace jp.co.systembase.NPOI.HSSF.Record.CF
 {
     using System;
     using System.Text;
-    using NPOI.HSSF.Record;
-    using NPOI.SS.UserModel;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.Util;
 
 
     /**

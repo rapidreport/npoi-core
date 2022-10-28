@@ -18,12 +18,12 @@
  */
 
 using System;
-using NPOI.OpenXmlFormats;
-using NPOI.OpenXmlFormats.Dml;
-using NPOI.OpenXmlFormats.Dml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Spreadsheet;
 using System.Xml;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

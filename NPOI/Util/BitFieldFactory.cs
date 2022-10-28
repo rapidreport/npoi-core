@@ -27,7 +27,7 @@ using System.Collections;
  * 
  * ==============================================================*/
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     /// <summary>
     /// Returns immutable Btfield instances.

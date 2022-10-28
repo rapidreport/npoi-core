@@ -15,9 +15,9 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.EventModel
+namespace jp.co.systembase.NPOI.HSSF.EventModel
 {
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /**
      * An ERFListener Is registered with the EventRecordFactory.

@@ -15,11 +15,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Crypto
+namespace jp.co.systembase.NPOI.HSSF.Record.Crypto
 {
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Simple implementation of the alleged RC4 algorithm.

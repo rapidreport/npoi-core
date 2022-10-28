@@ -17,20 +17,20 @@
 
 using System.Collections.Generic;
 using System;
-using NPOI.XSSF.Util;
+using jp.co.systembase.NPOI.XSSF.Util;
 using System.IO;
-using NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 using System.Text.RegularExpressions;
-using NPOI.OpenXmlFormats.Vml;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml;
 using System.Xml.Serialization;
 using System.Xml;
 using System.Collections;
-using NPOI.OpenXmlFormats.Vml.Office;
-using NPOI.OpenXmlFormats.Vml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Office;
+using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Spreadsheet;
 using System.Text;
 using ICSharpCode.SharpZipLib.Zip.Compression.Streams;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
 

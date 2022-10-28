@@ -18,9 +18,9 @@
  */
 
 using System;
-using NPOI.SS.Util;
+using jp.co.systembase.NPOI.SS.Util;
 
-namespace NPOI.SS.UserModel.Charts
+namespace jp.co.systembase.NPOI.SS.UserModel.Charts
 {
     public class DataSources {
 

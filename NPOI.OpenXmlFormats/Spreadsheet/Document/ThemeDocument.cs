@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using System.Xml.Serialization;
-using NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
 using System.Diagnostics;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
     public class ThemeDocument
     {

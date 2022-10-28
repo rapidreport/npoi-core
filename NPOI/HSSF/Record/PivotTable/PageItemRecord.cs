@@ -15,11 +15,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.PivotTable
+namespace jp.co.systembase.NPOI.HSSF.Record.PivotTable
 {
     using System.Text;
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
     /**
      * SXPI - Page Item (0x00B6)<br/>
      * 

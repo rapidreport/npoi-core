@@ -15,13 +15,13 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.OpenXmlFormats.Dml;
-using NPOI.OpenXmlFormats.Dml.Spreadsheet;
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.HSSF.Util;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.HSSF.Util;
 using System.Xml;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
     /**
      * Represents a shape with a predefined geometry in a SpreadsheetML Drawing.

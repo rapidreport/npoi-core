@@ -26,7 +26,7 @@
  * ==============================================================*/
 
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     using System;
     using System.IO;

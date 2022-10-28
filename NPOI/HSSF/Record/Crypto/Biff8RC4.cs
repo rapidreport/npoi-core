@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Crypto
+namespace jp.co.systembase.NPOI.HSSF.Record.Crypto
 {
     using System;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record;
 
     /**
      * Used for both encrypting and decrypting BIFF8 streams. The internal

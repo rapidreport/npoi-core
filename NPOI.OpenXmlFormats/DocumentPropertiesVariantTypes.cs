@@ -9,7 +9,7 @@ using System.Xml.Serialization;
 using System.Collections.Generic;
 using System;
 
-namespace NPOI.OpenXmlFormats
+namespace jp.co.systembase.NPOI.OpenXmlFormats
 {
 
     [Serializable]

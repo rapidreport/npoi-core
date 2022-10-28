@@ -15,7 +15,7 @@
 * limitations Under the License.
 */
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
 
     /*

@@ -17,11 +17,11 @@
  * ====================================================================
  */
 
-namespace NPOI.HSSF.Record.Cont
+namespace jp.co.systembase.NPOI.HSSF.Record.Cont
 {
 
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * A decorated {@link RecordInputStream} that can read primitive data types

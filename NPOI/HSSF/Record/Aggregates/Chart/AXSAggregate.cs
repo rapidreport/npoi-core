@@ -16,10 +16,10 @@
 ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.HSSF.Model;
-using NPOI.HSSF.Record.Chart;
+using jp.co.systembase.NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
 
-namespace NPOI.HSSF.Record.Aggregates.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates.Chart
 {
     /// <summary>
     /// AXS = [IFmtRecord] [Tick] [FontX] *4(AxisLine LineFormat) [AreaFormat] 

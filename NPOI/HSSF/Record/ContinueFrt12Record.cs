@@ -15,7 +15,7 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     /// <summary>
     /// The ContinueFrt12 record specifies a continuation of the data in a preceding Future Record 

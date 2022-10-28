@@ -29,15 +29,15 @@ using System;
 using System.Collections;
 using System.IO;
 
-using NPOI.POIFS.Properties;
-using NPOI.POIFS.Dev;
-using NPOI.POIFS.Storage;
-using NPOI.POIFS.EventFileSystem;
-using NPOI.POIFS.Common;
-using NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.POIFS.Dev;
+using jp.co.systembase.NPOI.POIFS.Storage;
+using jp.co.systembase.NPOI.POIFS.EventFileSystem;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.Util;
 
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// This is the main class of the POIFS system; it manages the entire

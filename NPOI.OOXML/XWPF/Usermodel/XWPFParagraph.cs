@@ -14,14 +14,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.XWPF.UserModel
+namespace jp.co.systembase.NPOI.XWPF.UserModel
 {
     using System;
     using System.Collections.Generic;
-    using NPOI.OpenXmlFormats.Wordprocessing;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing;
     using System.Text;
-    using NPOI.XWPF.Util;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.XWPF.Util;
+    using jp.co.systembase.NPOI.Util;
     using System.Collections;
     /**
      * Sketch of XWPF paragraph class

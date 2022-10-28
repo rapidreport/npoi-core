@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace NPOI.HSSF.Record.AutoFilter
+namespace jp.co.systembase.NPOI.HSSF.Record.AutoFilter
 {
     public class AutoFilterInfoRecord:StandardRecord
     {

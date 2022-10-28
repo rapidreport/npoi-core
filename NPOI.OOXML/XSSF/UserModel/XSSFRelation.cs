@@ -14,13 +14,13 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 using System.Collections.Generic;
 using System;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.XSSF.Model;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.XSSF.Model;
 using System.IO;
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

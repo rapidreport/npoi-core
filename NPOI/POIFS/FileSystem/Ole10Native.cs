@@ -15,11 +15,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     using System;
     using System.IO;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Represents an Ole10Native record which is wrapped around certain binary

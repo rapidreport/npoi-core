@@ -15,11 +15,11 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.Common
+namespace jp.co.systembase.NPOI.HSSF.Record.Common
 {
     using System;
 
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Common Interface for all Shared Features

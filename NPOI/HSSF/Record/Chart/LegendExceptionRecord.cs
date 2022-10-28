@@ -16,7 +16,7 @@
 ==================================================================== */
 using System;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// The LegendException record specifies information about a legend entry which was 

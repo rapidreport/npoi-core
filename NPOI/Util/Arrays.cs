@@ -31,7 +31,7 @@ using System.Collections;
 using System.Text;
 
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     public class Arrays
     {

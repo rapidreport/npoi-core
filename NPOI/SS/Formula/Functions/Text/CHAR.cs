@@ -1,8 +1,8 @@
 ﻿using System;
-using NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
 using System.Globalization;
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     public class CHAR : Fixed1ArgFunction
     {

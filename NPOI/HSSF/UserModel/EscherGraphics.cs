@@ -15,14 +15,14 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
-    using NPOI.HSSF.Util;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.Util;
 
     using System.Drawing;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     /**
      * Translates Graphics calls into escher calls.  The translation Is lossy so

@@ -28,7 +28,7 @@
 using System;
 using System.Text;
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     /// <summary>
     /// Represents a class ID (16 bytes). Unlike other little-endian

@@ -1,4 +1,4 @@
-﻿using NPOI.OpenXml4Net.Util;
+﻿using jp.co.systembase.NPOI.OpenXml4Net.Util;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Spreadsheet
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet
 {
     [Serializable]
     [System.Diagnostics.DebuggerStepThrough()]

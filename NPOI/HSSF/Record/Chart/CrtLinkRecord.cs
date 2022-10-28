@@ -1,5 +1,5 @@
 ﻿
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// The CrtLink record is written but unused.

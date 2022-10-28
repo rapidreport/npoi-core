@@ -15,13 +15,13 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
 
     using System;
     using System.Collections.Generic;
 
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
     using System.Collections;
 
     /// <summary>

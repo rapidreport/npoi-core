@@ -17,12 +17,12 @@
 
 using System;
 using System.IO;
-using NPOI.OpenXml4Net.Exceptions;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.OpenXml4Net.OPC.Internal;
-using NPOI.OpenXmlFormats;
+using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal;
+using jp.co.systembase.NPOI.OpenXmlFormats;
 
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
     /**
  * The core document properties

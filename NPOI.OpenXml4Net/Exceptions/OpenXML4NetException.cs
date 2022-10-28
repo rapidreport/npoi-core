@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NPOI.OpenXml4Net
+namespace jp.co.systembase.NPOI.OpenXml4Net
 {
     public class OpenXml4NetException:Exception {
 

@@ -15,9 +15,9 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
 using System;
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
     /**
      * Implementation for the function COUNTBLANK

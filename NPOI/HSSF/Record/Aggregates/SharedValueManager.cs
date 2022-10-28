@@ -16,15 +16,15 @@
 ==================================================================== */
 
 
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
     using System;
     using System.Text;
     using System.Collections.Generic;
-    using NPOI.HSSF.Record;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /// <summary>
     /// Manages various auxiliary records while constructing a RowRecordsAggregate

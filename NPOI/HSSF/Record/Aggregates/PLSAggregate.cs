@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Model;
 
-namespace NPOI.HSSF.Record.Aggregates
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates
 {
     internal class PLSAggregate : RecordAggregate
     {

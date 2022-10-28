@@ -17,11 +17,11 @@
  * ====================================================================
  */
 
-using NPOI.OpenXmlFormats.Spreadsheet;
-using NPOI.SS.UserModel;
-using NPOI.XSSF.Model;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.XSSF.Model;
 using System;
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

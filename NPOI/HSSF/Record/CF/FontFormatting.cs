@@ -16,13 +16,13 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record.CF
+namespace jp.co.systembase.NPOI.HSSF.Record.CF
 {
     using System;
     using System.Text;
-    using NPOI.HSSF.Record;
-    using NPOI.Util;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.SS.UserModel;
 
     /**
      * Font Formatting Block of the Conditional Formatting Rule Record.

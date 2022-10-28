@@ -15,18 +15,18 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
-    //using NPOI.HSSF.Model;
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.Record.Aggregates;
-    using NPOI.SS;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.SS.Formula.Udf;
-    using NPOI.SS.UserModel;
-using NPOI.Util;
+    //using jp.co.systembase.NPOI.HSSF.Model;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Record.Aggregates;
+    using jp.co.systembase.NPOI.SS;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.Udf;
+    using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.Util;
    
     /**
      * Internal POI use only

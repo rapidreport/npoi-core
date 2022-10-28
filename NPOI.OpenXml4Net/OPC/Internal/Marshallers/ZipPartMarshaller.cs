@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
-using NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 using System.Xml;
 using ICSharpCode.SharpZipLib.Zip;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.OpenXml4Net.OPC.Internal.Marshallers
+namespace jp.co.systembase.NPOI.OpenXml4Net.OPC.Internal.Marshallers
 {
     /**
      * Zip part marshaller. This marshaller is use to save any part in a zip stream.

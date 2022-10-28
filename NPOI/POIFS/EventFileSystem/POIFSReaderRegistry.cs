@@ -20,9 +20,9 @@
 using System;
 using System.Collections;
 
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 
-namespace NPOI.POIFS.EventFileSystem
+namespace jp.co.systembase.NPOI.POIFS.EventFileSystem
 {
     /**
      * A registry for POIFSReaderListeners and the DocumentDescriptors of

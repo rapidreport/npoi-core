@@ -16,17 +16,17 @@
 ==================================================================== */
 
 
-using NPOI.POIFS.Common;
-using NPOI.POIFS.Dev;
-using NPOI.POIFS.Properties;
-using NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.POIFS.Dev;
+using jp.co.systembase.NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.Util;
 using System.IO;
 using System.Collections.Generic;
 using System;
 using System.Text;
 using System.Collections;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /**
  * This class manages a document in the NIO POIFS filesystem.

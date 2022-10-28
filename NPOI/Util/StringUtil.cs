@@ -31,7 +31,7 @@ using System.Text;
 
 
 
-namespace NPOI.Util
+namespace jp.co.systembase.NPOI.Util
 {
     /// <summary>
     /// Title: String Utility Description: Collection of string handling utilities

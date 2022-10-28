@@ -18,9 +18,9 @@
 using System;
 using System.IO;
 using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     public class CodePageString
     {

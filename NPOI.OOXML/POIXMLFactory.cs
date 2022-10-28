@@ -14,8 +14,8 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-using NPOI.OpenXml4Net.OPC;
-namespace NPOI
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+namespace jp.co.systembase.NPOI
 {
 
 

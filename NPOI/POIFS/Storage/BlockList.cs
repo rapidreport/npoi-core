@@ -25,7 +25,7 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.POIFS.Storage
+namespace jp.co.systembase.NPOI.POIFS.Storage
 {
 
     /// <summary>

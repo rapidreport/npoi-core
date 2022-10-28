@@ -16,10 +16,10 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
-    using NPOI.DDF;
-    using NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
     using System;
     using System.Collections;
     using System.Collections.Generic;

@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Xml;
 using System.Xml.Serialization;
-using NPOI.OpenXmlFormats.Shared;
-using NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXmlFormats.Shared;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
 using System.IO;
 using System.Collections;
 
-namespace NPOI.OpenXmlFormats.Wordprocessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing
 {
     [Serializable]
 

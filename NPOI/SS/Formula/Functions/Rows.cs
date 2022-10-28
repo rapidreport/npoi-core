@@ -16,10 +16,10 @@
 */
 
 
-namespace NPOI.SS.Formula.Functions
+namespace jp.co.systembase.NPOI.SS.Formula.Functions
 {
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula;
 
     /**
      * Implementation for Excel ROWS function.

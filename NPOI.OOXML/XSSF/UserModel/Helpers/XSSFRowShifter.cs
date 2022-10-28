@@ -16,13 +16,13 @@
 ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.SS.Util;
-using NPOI.SS.Formula.PTG;
-using NPOI.SS.Formula;
+using jp.co.systembase.NPOI.SS.Util;
+using jp.co.systembase.NPOI.SS.Formula.PTG;
+using jp.co.systembase.NPOI.SS.Formula;
 using System;
-using NPOI.SS.UserModel;
-using NPOI.OpenXmlFormats.Spreadsheet;
-namespace NPOI.XSSF.UserModel.Helpers
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+namespace jp.co.systembase.NPOI.XSSF.UserModel.Helpers
 {
     /**
      * @author Yegor Kozlov

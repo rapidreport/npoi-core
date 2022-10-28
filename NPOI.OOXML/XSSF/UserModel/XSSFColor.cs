@@ -14,14 +14,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-using NPOI.OpenXmlFormats;
+using jp.co.systembase.NPOI.OpenXmlFormats;
 using System;
-using NPOI.HSSF.Util;
+using jp.co.systembase.NPOI.HSSF.Util;
 using System.Text;
-using NPOI.Util;
-using NPOI.SS.UserModel;
-using NPOI.OpenXmlFormats.Spreadsheet;
-namespace NPOI.XSSF.UserModel
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

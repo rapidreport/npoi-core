@@ -17,15 +17,15 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
 
     using System;
     using System.Text;
     using System.Collections;
 
-    using NPOI.SS.Util;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.SS.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * Title: Merged Cells Record

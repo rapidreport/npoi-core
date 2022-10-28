@@ -1,7 +1,7 @@
 ﻿using System.Text;
-using NPOI.Util;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     /// <summary>
     /// The PieFormat record specifies the distance of a data point or data points in a series from the center of one of the following:

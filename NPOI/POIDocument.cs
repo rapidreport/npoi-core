@@ -15,13 +15,13 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI
+namespace jp.co.systembase.NPOI
 {
     using System;
     using System.IO;
     using System.Collections;
-    using NPOI.POIFS.FileSystem;
-    using NPOI.HPSF;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI.HPSF;
     using System.Collections.Generic;
 
 

@@ -5,7 +5,7 @@ using System.Text;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Wordprocessing
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing
 {
     public class FtrDocument
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace NPOI.HSSF.Record.AutoFilter
+namespace jp.co.systembase.NPOI.HSSF.Record.AutoFilter
 {
     public class FilterModeRecord:StandardRecord
     {

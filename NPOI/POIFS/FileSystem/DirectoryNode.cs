@@ -31,13 +31,13 @@ using System.IO;
 using System.Collections;
 
 
-using NPOI.POIFS.Properties;
-using NPOI.POIFS.Dev;
-using NPOI.POIFS.FileSystem;
-using NPOI.POIFS.EventFileSystem;
-using NPOI.Util;
+using jp.co.systembase.NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.POIFS.Dev;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.EventFileSystem;
+using jp.co.systembase.NPOI.Util;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// Simple implementation of DirectoryEntry

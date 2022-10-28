@@ -15,17 +15,17 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
 using System.IO;
 using System.Xml;
 using System.Collections.Generic;
 using System;
-using NPOI.OpenXmlFormats;
-using NPOI.Util;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.OpenXmlFormats;
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

@@ -15,22 +15,22 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Extractor
+namespace jp.co.systembase.NPOI.HSSF.Extractor
 {
     using System;
     using System.Text;
     using System.IO;
     using System.Collections;
 
-    using NPOI.HSSF.UserModel;
-    using NPOI.HSSF.Record;
-    using NPOI.POIFS.FileSystem;
-    using NPOI;
-    using NPOI.HPSF;
-    using NPOI.HSSF.EventUserModel;
-    using NPOI.HSSF.Model;
-    //using NPOI.HSSF.Util;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.POIFS.FileSystem;
+    using jp.co.systembase.NPOI;
+    using jp.co.systembase.NPOI.HPSF;
+    using jp.co.systembase.NPOI.HSSF.EventUserModel;
+    using jp.co.systembase.NPOI.HSSF.Model;
+    //using jp.co.systembase.NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.SS.Util;
     using System.Globalization;
 
     /// <summary>

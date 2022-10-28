@@ -17,11 +17,11 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     using System;
     using System.Text;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
 
     /**
      * The series record describes the overall data for a series.

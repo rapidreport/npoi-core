@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula
+namespace jp.co.systembase.NPOI.SS.Formula
 {
 
     using System;
@@ -24,11 +24,11 @@ namespace NPOI.SS.Formula
     using System.Globalization;
     using System.Text;
     using System.Text.RegularExpressions;
-    using NPOI.HSSF.UserModel;
-    using NPOI.SS.Formula.Constant;
-    using NPOI.SS.Formula.Function;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.HSSF.UserModel;
+    using jp.co.systembase.NPOI.SS.Formula.Constant;
+    using jp.co.systembase.NPOI.SS.Formula.Function;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /// <summary>
     /// Specific exception thrown when a supplied formula does not Parse properly.

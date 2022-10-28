@@ -17,7 +17,7 @@
  * ====================================================================
  */
 
-namespace NPOI.SS.UserModel
+namespace jp.co.systembase.NPOI.SS.UserModel
 {
     /**
      * The conditional format operators used for "Highlight Cells That Contain..." rules.

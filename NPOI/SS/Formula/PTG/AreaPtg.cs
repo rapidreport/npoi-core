@@ -15,11 +15,11 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula.PTG
+namespace jp.co.systembase.NPOI.SS.Formula.PTG
 {
     using System;
-    using NPOI.Util;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      * Specifies a rectangular area of cells A1:A4 for instance.

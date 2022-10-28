@@ -14,17 +14,17 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.XWPF.Model
+namespace jp.co.systembase.NPOI.XWPF.Model
 {
     using System;
-    using NPOI.XWPF.UserModel;
-    using NPOI.OpenXmlFormats.Wordprocessing;
+    using jp.co.systembase.NPOI.XWPF.UserModel;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing;
     using System.Collections.Generic;
     using System.IO;
     using System.Xml.Serialization;
     using System.Xml;
-    using NPOI.OpenXmlFormats.Vml;
-    using NPOI.OpenXmlFormats.Vml.Office;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Vml;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Vml.Office;
     using System.Diagnostics;
 
     /**

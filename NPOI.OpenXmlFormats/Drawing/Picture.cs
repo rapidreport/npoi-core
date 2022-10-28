@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.IO;
 using System.Xml.Serialization;
 
-namespace NPOI.OpenXmlFormats.Dml.Picture
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Dml.Picture
 {
     [Serializable]
     [System.Diagnostics.DebuggerStepThrough]

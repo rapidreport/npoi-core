@@ -17,13 +17,13 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Record.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Chart
 {
     using System;
     using System.Text;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.Util;
 
 
     /*

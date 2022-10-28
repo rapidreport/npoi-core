@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using NPOI.Util;
-using NPOI.SS.UserModel.Drawing;
+using jp.co.systembase.NPOI.Util;
+using jp.co.systembase.NPOI.SS.UserModel.Drawing;
 
-namespace NPOI.HSSF.Record.Drawing
+namespace jp.co.systembase.NPOI.HSSF.Record.Drawing
 {
     public class OfficeArtFOPTE
     {

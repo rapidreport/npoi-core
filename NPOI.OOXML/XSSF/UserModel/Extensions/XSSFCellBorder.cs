@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.XSSF.UserModel.Extensions
+namespace jp.co.systembase.NPOI.XSSF.UserModel.Extensions
 {
 
-    using NPOI.OpenXmlFormats.Spreadsheet;
+    using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
     using System;
-    using NPOI.XSSF.UserModel;
-    using NPOI.XSSF.Model;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.XSSF.UserModel;
+    using jp.co.systembase.NPOI.XSSF.Model;
+    using jp.co.systembase.NPOI.SS.UserModel;
     /**
  * The enumeration value indicating the side being used for a cell border.
  */

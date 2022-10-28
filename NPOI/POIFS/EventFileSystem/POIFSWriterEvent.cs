@@ -18,8 +18,8 @@
         
 
 using System;
-using NPOI.POIFS.FileSystem;
-namespace NPOI.POIFS.EventFileSystem
+using jp.co.systembase.NPOI.POIFS.FileSystem;
+namespace jp.co.systembase.NPOI.POIFS.EventFileSystem
 {
 
     /**

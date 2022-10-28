@@ -16,18 +16,18 @@
 ==================================================================== */
 
 
-namespace NPOI.HSSF.Model
+namespace jp.co.systembase.NPOI.HSSF.Model
 {
     using System;
     using System.Collections;
     using System.Collections.Generic;
-    using NPOI.DDF;
-    using NPOI.HSSF.Record;
-    using NPOI.HSSF.Util;
-    using NPOI.SS.Formula;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.SS.Formula.Udf;
-    using NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.DDF;
+    using jp.co.systembase.NPOI.HSSF.Record;
+    using jp.co.systembase.NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.SS.Formula;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.Udf;
+    using jp.co.systembase.NPOI.SS.UserModel;
     using System.Security;
 
 

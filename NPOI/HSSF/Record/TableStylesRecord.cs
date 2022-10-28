@@ -15,10 +15,10 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.Util;
     using System.Text;
 
 

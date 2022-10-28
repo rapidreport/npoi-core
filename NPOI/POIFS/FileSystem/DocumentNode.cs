@@ -18,12 +18,12 @@
 using System;
 using System.Collections;
 
-using NPOI.POIFS.FileSystem;
-using NPOI.POIFS.Properties;
-using NPOI.POIFS.Dev;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.Properties;
+using jp.co.systembase.NPOI.POIFS.Dev;
 
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// Simple implementation of DocumentEntry

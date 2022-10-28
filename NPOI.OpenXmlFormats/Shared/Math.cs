@@ -8,14 +8,14 @@
 using System;
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using NPOI.OpenXmlFormats.Wordprocessing;
+using jp.co.systembase.NPOI.OpenXmlFormats.Wordprocessing;
 using System.Collections;
 using System.IO;
 using System.Xml;
-using NPOI.OpenXml4Net.Util;
-using NPOI.OpenXmlFormats.Dml.WordProcessing;
+using jp.co.systembase.NPOI.OpenXml4Net.Util;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.WordProcessing;
 
-namespace NPOI.OpenXmlFormats.Shared
+namespace jp.co.systembase.NPOI.OpenXmlFormats.Shared
 {
    
     [Serializable]

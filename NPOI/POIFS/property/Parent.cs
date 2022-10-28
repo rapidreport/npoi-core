@@ -27,7 +27,7 @@
 
 using System.Collections.Generic;
 
-namespace NPOI.POIFS.Properties
+namespace jp.co.systembase.NPOI.POIFS.Properties
 {
     /// <summary>
     /// Behavior for parent (directory) properties

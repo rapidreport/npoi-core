@@ -15,14 +15,14 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.SS.UserModel;
-using NPOI.XSSF.UserModel;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.Util;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.XSSF.UserModel;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.Util;
 using System.IO;
 using System;
 using System.Collections.Generic;
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
 
     /**

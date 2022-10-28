@@ -1,4 +1,4 @@
-﻿namespace NPOI.Util
+﻿namespace jp.co.systembase.NPOI.Util
 {
     public static class Operator
     {

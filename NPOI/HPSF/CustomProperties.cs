@@ -25,11 +25,11 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.HPSF
+namespace jp.co.systembase.NPOI.HPSF
 {
     using System;
     using System.Collections;
-    using NPOI.HPSF.Wellknown;
+    using jp.co.systembase.NPOI.HPSF.Wellknown;
     using System.Text;
 
 

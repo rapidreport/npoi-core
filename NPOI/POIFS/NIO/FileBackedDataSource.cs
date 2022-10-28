@@ -17,8 +17,8 @@
 
 using System.IO;
 using System;
-using NPOI.Util;
-namespace NPOI.POIFS.NIO
+using jp.co.systembase.NPOI.Util;
+namespace jp.co.systembase.NPOI.POIFS.NIO
 {
     /// <summary>
     /// A POIFS DataSource backed by a File

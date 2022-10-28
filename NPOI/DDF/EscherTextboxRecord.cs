@@ -17,7 +17,7 @@
 ==================================================================== */
 
 
-namespace NPOI.DDF
+namespace jp.co.systembase.NPOI.DDF
 {
     using System;
     using System.Text;

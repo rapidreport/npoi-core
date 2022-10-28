@@ -28,7 +28,7 @@
 using System;
 using System.Text;
 
-namespace NPOI.POIFS.FileSystem
+namespace jp.co.systembase.NPOI.POIFS.FileSystem
 {
     /// <summary>
     /// Class DocumentDescriptor

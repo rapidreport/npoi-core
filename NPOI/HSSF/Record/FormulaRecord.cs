@@ -23,13 +23,13 @@
  * Created on October 28, 2001, 5:44 PM
  */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula.PTG;
-    using NPOI.Util;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.Util;
 
 
     /**

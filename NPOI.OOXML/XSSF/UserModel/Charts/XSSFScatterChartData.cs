@@ -16,13 +16,13 @@
    ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.OpenXmlFormats.Dml.Chart;
-using NPOI.SS.Util;
-using NPOI.SS.UserModel.Charts;
-using NPOI.XSSF.UserModel.Charts;
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml.Chart;
+using jp.co.systembase.NPOI.SS.Util;
+using jp.co.systembase.NPOI.SS.UserModel.Charts;
+using jp.co.systembase.NPOI.XSSF.UserModel.Charts;
+using jp.co.systembase.NPOI.SS.UserModel;
 using System;
-namespace NPOI.XSSF.UserModel.Charts
+namespace jp.co.systembase.NPOI.XSSF.UserModel.Charts
 {
 
     /**

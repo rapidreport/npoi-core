@@ -14,14 +14,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ==================================================================== */
-namespace NPOI.XSSF.Model
+namespace jp.co.systembase.NPOI.XSSF.Model
 {
     using System;
     using System.Collections.Generic;
     using System.IO;
     using System.Xml;
-    using NPOI.OpenXml4Net.OPC;
-    using NPOI.XSSF.UserModel;
+    using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+    using jp.co.systembase.NPOI.XSSF.UserModel;
     using OpenXmlFormats.Spreadsheet;
 
     public class CommentsTable : POIXMLDocumentPart

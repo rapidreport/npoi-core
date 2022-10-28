@@ -16,10 +16,10 @@
 ==================================================================== */
 
 using System.Collections.Generic;
-using NPOI.SS.Formula.Eval;
+using jp.co.systembase.NPOI.SS.Formula.Eval;
 using System;
-using NPOI.SS.UserModel;
-namespace NPOI.SS.Formula.Atp
+using jp.co.systembase.NPOI.SS.UserModel;
+namespace jp.co.systembase.NPOI.SS.Formula.Atp
 {
     /**
      * Evaluator for formula arguments.

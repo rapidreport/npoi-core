@@ -16,7 +16,7 @@
 ==================================================================== */
 
 
-namespace NPOI.SS
+namespace jp.co.systembase.NPOI.SS
 {
     using System.Collections.Generic;
     using System.Text;

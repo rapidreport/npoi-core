@@ -30,10 +30,10 @@ using System;
 using System.Collections;
 using System.IO;
 
-using NPOI.POIFS.Common;
+using jp.co.systembase.NPOI.POIFS.Common;
 using System.Collections.Generic;
 
-namespace NPOI.POIFS.Storage
+namespace jp.co.systembase.NPOI.POIFS.Storage
 {
     /// <summary>
     /// Storage for documents that are too small to use regular

@@ -15,8 +15,8 @@
    limitations under the License.
 ==================================================================== */
 using System;
-using NPOI.SS.UserModel;
-namespace NPOI.SS.Formula.Atp
+using jp.co.systembase.NPOI.SS.UserModel;
+namespace jp.co.systembase.NPOI.SS.Formula.Atp
 {
     /**
      * A calculator for workdays, considering dates as excel representations.

@@ -16,11 +16,11 @@
 ==================================================================== */
 using System;
 using System.Collections.Generic;
-using NPOI.HSSF.Model;
+using jp.co.systembase.NPOI.HSSF.Model;
 using System.IO;
-using NPOI.HSSF.Record.Chart;
+using jp.co.systembase.NPOI.HSSF.Record.Chart;
 
-namespace NPOI.HSSF.Record.Aggregates.Chart
+namespace jp.co.systembase.NPOI.HSSF.Record.Aggregates.Chart
 {
     /// <summary>
     /// CHARTSHEET = BOF CHARTSHEETCONTENT

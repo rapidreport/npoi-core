@@ -1,8 +1,8 @@
 using System;
 using System.Text;
-using NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.SS.UserModel;
 
-namespace NPOI.SS.Util
+namespace jp.co.systembase.NPOI.SS.Util
 {
 /**
  * Helper methods for when working with Usermodel Workbooks

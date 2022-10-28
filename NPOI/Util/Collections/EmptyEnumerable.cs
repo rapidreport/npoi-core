@@ -25,7 +25,7 @@
  * 
  * ==============================================================*/
 
-namespace NPOI.Util.Collections
+namespace jp.co.systembase.NPOI.Util.Collections
 {
     //public sealed class EmptyEnumerable
     //    : IEnumerable

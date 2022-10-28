@@ -17,15 +17,15 @@
 
 //http://stackoverflow.com/questions/6843698/calculating-sha-1-hashes-in-java-and-c-sharp  Leon
 using System;
-using NPOI.POIFS.FileSystem;
+using jp.co.systembase.NPOI.POIFS.FileSystem;
 using System.Security.Cryptography;
 using System.IO;
 
-using NPOI;
-using NPOI.Util;
+using jp.co.systembase.NPOI;
+using jp.co.systembase.NPOI.Util;
 
 
-namespace NPOI.POIFS.Crypt
+namespace jp.co.systembase.NPOI.POIFS.Crypt
 {
     public class AgileDecryptor : Decryptor
     {

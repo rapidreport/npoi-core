@@ -15,14 +15,14 @@
    limitations Under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.Record
+namespace jp.co.systembase.NPOI.HSSF.Record
 {
     using System;
     using System.Text;
-    using NPOI.Util;
-    using NPOI.HSSF.Util;
+    using jp.co.systembase.NPOI.Util;
+    using jp.co.systembase.NPOI.HSSF.Util;
 
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      * The <c>HyperlinkRecord</c> wraps an HLINK-record 

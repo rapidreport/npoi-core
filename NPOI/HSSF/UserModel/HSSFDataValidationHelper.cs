@@ -15,12 +15,12 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.HSSF.UserModel
+namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
     using System;
 
-    using NPOI.SS.UserModel;
-    using NPOI.SS.Util;
+    using jp.co.systembase.NPOI.SS.UserModel;
+    using jp.co.systembase.NPOI.SS.Util;
 
     /**
      * @author <a href="rjankiraman@emptoris.com">Radhakrishnan J</a>

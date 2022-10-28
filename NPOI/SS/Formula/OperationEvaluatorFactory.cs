@@ -15,16 +15,16 @@
    limitations under the License.
 ==================================================================== */
 
-namespace NPOI.SS.Formula
+namespace jp.co.systembase.NPOI.SS.Formula
 {
 
     using System;
     using System.Collections;
     using System.Reflection;
 
-    using NPOI.SS.Formula.Eval;
-    using NPOI.SS.Formula.Functions;
-    using NPOI.SS.Formula.PTG;
+    using jp.co.systembase.NPOI.SS.Formula.Eval;
+    using jp.co.systembase.NPOI.SS.Formula.Functions;
+    using jp.co.systembase.NPOI.SS.Formula.PTG;
 
     /**
      * This class Creates <c>OperationEval</c> instances To help evaluate <c>OperationPtg</c>

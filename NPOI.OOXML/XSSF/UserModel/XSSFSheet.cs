@@ -15,27 +15,27 @@
    limitations under the License.
 ==================================================================== */
 
-using NPOI.SS.UserModel;
-using NPOI.Util;
+using jp.co.systembase.NPOI.SS.UserModel;
+using jp.co.systembase.NPOI.Util;
 using System.IO;
-using NPOI.XSSF.Model;
+using jp.co.systembase.NPOI.XSSF.Model;
 using System.Collections.Generic;
-using NPOI.OpenXmlFormats.Spreadsheet;
+using jp.co.systembase.NPOI.OpenXmlFormats.Spreadsheet;
 using System;
-using NPOI.SS.Util;
-using NPOI.OpenXml4Net.Exceptions;
-using NPOI.OpenXml4Net.OPC;
-using NPOI.SS;
-using NPOI.XSSF.UserModel.Helpers;
-using NPOI.HSSF.Record;
-using NPOI.OpenXmlFormats;
-using NPOI.OpenXmlFormats.Dml;
+using jp.co.systembase.NPOI.SS.Util;
+using jp.co.systembase.NPOI.OpenXml4Net.Exceptions;
+using jp.co.systembase.NPOI.OpenXml4Net.OPC;
+using jp.co.systembase.NPOI.SS;
+using jp.co.systembase.NPOI.XSSF.UserModel.Helpers;
+using jp.co.systembase.NPOI.HSSF.Record;
+using jp.co.systembase.NPOI.OpenXmlFormats;
+using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
 using System.Collections;
-using NPOI.SS.Formula;
+using jp.co.systembase.NPOI.SS.Formula;
 using System.Text;
 using System.Xml;
 
-namespace NPOI.XSSF.UserModel
+namespace jp.co.systembase.NPOI.XSSF.UserModel
 {
     /**
      * High level representation of a SpreadsheetML worksheet.
