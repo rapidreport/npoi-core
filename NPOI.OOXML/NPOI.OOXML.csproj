@@ -10,6 +10,7 @@
     <AssemblyName>systembase.NPOI.OOXML</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>systembase.npoi.ooxml.snk</AssemblyOriginatorKeyFile>
+    <BaseOutputPath>..\LIb\</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

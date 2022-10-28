@@ -12,6 +12,7 @@
     <AssemblyName>systembase.NPOI.OpenXml4Net</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>systembase.npoi.openxml4net.snk</AssemblyOriginatorKeyFile>
+    <BaseOutputPath>..\LIb\</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

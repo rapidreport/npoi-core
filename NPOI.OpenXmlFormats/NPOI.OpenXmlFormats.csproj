@@ -8,6 +8,7 @@
     <FileVersion>2.2.1.0</FileVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>systembase.npoi.openxmlformats.snk</AssemblyOriginatorKeyFile>
+    <BaseOutputPath>..\LIb\</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

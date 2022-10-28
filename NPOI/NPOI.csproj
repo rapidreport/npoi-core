@@ -9,6 +9,7 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>systembase.npoi.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
+    <BaseOutputPath>../LIb/</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
