@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <Version>0</Version>
-    <AssemblyVersion>2.2.1.0</AssemblyVersion>
-    <FileVersion>2.2.1.0</FileVersion>
+    <Version>2.2.2</Version>
+    <AssemblyVersion>2.2.2</AssemblyVersion>
+    <FileVersion>2.2.2</FileVersion>
     <AssemblyName>systembase.NPOI</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>systembase.npoi.snk</AssemblyOriginatorKeyFile>

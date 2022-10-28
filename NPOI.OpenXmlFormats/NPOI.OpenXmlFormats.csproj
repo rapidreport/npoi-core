@@ -2,10 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <Version>0</Version>
-    <AssemblyVersion>2.2.1.0</AssemblyVersion>
+    <Version>2.2.2</Version>
+    <AssemblyVersion>2.2.2</AssemblyVersion>
     <AssemblyName>systembase.NPOI.OpenXmlFormats</AssemblyName>
-    <FileVersion>2.2.1.0</FileVersion>
+    <FileVersion>2.2.2</FileVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>systembase.npoi.openxmlformats.snk</AssemblyOriginatorKeyFile>
     <BaseOutputPath>..\LIb\</BaseOutputPath>
