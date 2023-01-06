@@ -17,10 +17,8 @@
 
 namespace jp.co.systembase.NPOI.HSSF.UserModel
 {
-    using System;
-    using System.Drawing;
-    using System.Text;
-    using System.IO;
+    using System;    
+    using System.Text;    
     using jp.co.systembase.NPOI.DDF;
     using jp.co.systembase.NPOI.Util;
     using jp.co.systembase.NPOI.SS.UserModel;
@@ -135,55 +133,56 @@ namespace jp.co.systembase.NPOI.HSSF.UserModel
         /// <returns>HSSFClientAnchor with the preferred size for this image</returns>
         public HSSFClientAnchor GetPreferredSize(double scale)
         {
-            HSSFClientAnchor anchor = (HSSFClientAnchor)Anchor;
+            return (HSSFClientAnchor)Anchor;
+            //HSSFClientAnchor anchor = (HSSFClientAnchor)Anchor;
 
-            Size size = GetImageDimension();
-            double scaledWidth = size.Width * scale;
-            double scaledHeight = size.Height * scale;
+            //Size size = GetImageDimension();
+            //double scaledWidth = size.Width * scale;
+            //double scaledHeight = size.Height * scale;
 
-            float w = 0;
+            //float w = 0;
 
-            //space in the leftmost cell
-            w += GetColumnWidthInPixels(anchor.Col1) * (1 - (float)anchor.Dx1 / 1024);
-            short col2 = (short)(anchor.Col1 + 1);
-            int dx2 = 0;
+            ////space in the leftmost cell
+            //w += GetColumnWidthInPixels(anchor.Col1) * (1 - (float)anchor.Dx1 / 1024);
+            //short col2 = (short)(anchor.Col1 + 1);
+            //int dx2 = 0;
 
-            while (w < scaledWidth)
-            {
-                w += GetColumnWidthInPixels(col2++);
-            }
+            //while (w < scaledWidth)
+            //{
+            //    w += GetColumnWidthInPixels(col2++);
+            //}
 
-            if (w > scaledWidth)
-            {
-                //calculate dx2, offset in the rightmost cell
-                col2--;
-                double cw = GetColumnWidthInPixels(col2);
-                double delta = w - scaledWidth;
-                dx2 = (int)((cw - delta) / cw * 1024);
-            }
-            anchor.Col2 = col2;
-            anchor.Dx2 = dx2;
+            //if (w > scaledWidth)
+            //{
+            //    //calculate dx2, offset in the rightmost cell
+            //    col2--;
+            //    double cw = GetColumnWidthInPixels(col2);
+            //    double delta = w - scaledWidth;
+            //    dx2 = (int)((cw - delta) / cw * 1024);
+            //}
+            //anchor.Col2 = col2;
+            //anchor.Dx2 = dx2;
 
-            float h = 0;
-            h += (1 - (float)anchor.Dy1 / 256) * GetRowHeightInPixels(anchor.Row1);
-            int row2 = anchor.Row1 + 1;
-            int dy2 = 0;
+            //float h = 0;
+            //h += (1 - (float)anchor.Dy1 / 256) * GetRowHeightInPixels(anchor.Row1);
+            //int row2 = anchor.Row1 + 1;
+            //int dy2 = 0;
 
-            while (h < scaledHeight)
-            {
-                h += GetRowHeightInPixels(row2++);
-            }
-            if (h > scaledHeight)
-            {
-                row2--;
-                double ch = GetRowHeightInPixels(row2);
-                double delta = h - scaledHeight;
-                dy2 = (int)((ch - delta) / ch * 256);
-            }
-            anchor.Row2 = row2;
-            anchor.Dy2 = dy2;
+            //while (h < scaledHeight)
+            //{
+            //    h += GetRowHeightInPixels(row2++);
+            //}
+            //if (h > scaledHeight)
+            //{
+            //    row2--;
+            //    double ch = GetRowHeightInPixels(row2);
+            //    double delta = h - scaledHeight;
+            //    dy2 = (int)((ch - delta) / ch * 256);
+            //}
+            //anchor.Row2 = row2;
+            //anchor.Dy2 = dy2;
 
-            return anchor;
+            //return anchor;
         }
 
         /// <summary>
@@ -249,40 +248,40 @@ namespace jp.co.systembase.NPOI.HSSF.UserModel
         /// </summary>
         /// <param name="r">The image.</param>
         /// <returns>the resolution</returns>
-        protected Size GetResolution(Image r)
-        {
-            //int hdpi = 96, vdpi = 96;
-            //double mm2inch = 25.4;
+        //protected Size GetResolution(Image r)
+        //{
+        //    //int hdpi = 96, vdpi = 96;
+        //    //double mm2inch = 25.4;
 
-            //NodeList lst;
-            //Element node = (Element)r.GetImageMetadata(0).GetAsTree("javax_imageio_1.0");
-            //lst = node.GetElementsByTagName("HorizontalPixelSize");
-            //if (lst != null && lst.GetLength == 1) hdpi = (int)(mm2inch / Float.ParseFloat(((Element)lst.item(0)).GetAttribute("value")));
+        //    //NodeList lst;
+        //    //Element node = (Element)r.GetImageMetadata(0).GetAsTree("javax_imageio_1.0");
+        //    //lst = node.GetElementsByTagName("HorizontalPixelSize");
+        //    //if (lst != null && lst.GetLength == 1) hdpi = (int)(mm2inch / Float.ParseFloat(((Element)lst.item(0)).GetAttribute("value")));
 
-            //lst = node.GetElementsByTagName("VerticalPixelSize");
-            //if (lst != null && lst.GetLength == 1) vdpi = (int)(mm2inch / Float.ParseFloat(((Element)lst.item(0)).GetAttribute("value")));
+        //    //lst = node.GetElementsByTagName("VerticalPixelSize");
+        //    //if (lst != null && lst.GetLength == 1) vdpi = (int)(mm2inch / Float.ParseFloat(((Element)lst.item(0)).GetAttribute("value")));
 
-            return new Size((int)r.HorizontalResolution, (int)r.VerticalResolution);
-        }
+        //    return new Size((int)r.HorizontalResolution, (int)r.VerticalResolution);
+        //}
 
         /// <summary>
         /// Return the dimension of this image
         /// </summary>
         /// <returns>image dimension</returns>
-        public Size GetImageDimension()
-        {
-            EscherBSERecord bse = (_patriarch.Sheet.Workbook as HSSFWorkbook).Workbook.GetBSERecord(PictureIndex);
-            byte[] data = bse.BlipRecord.PictureData;
-            //int type = bse.BlipTypeWin32;
+        //public Size GetImageDimension()
+        //{
+        //    EscherBSERecord bse = (_patriarch.Sheet.Workbook as HSSFWorkbook).Workbook.GetBSERecord(PictureIndex);
+        //    byte[] data = bse.BlipRecord.PictureData;
+        //    //int type = bse.BlipTypeWin32;
 
-            using (MemoryStream ms = new MemoryStream(data))
-            {
-                using (Image img = Image.FromStream(ms))
-                {
-                    return img.Size;
-                }
-            }
-        }
+        //    using (MemoryStream ms = new MemoryStream(data))
+        //    {
+        //        using (Image img = Image.FromStream(ms))
+        //        {
+        //            return img.Size;
+        //        }
+        //    }
+        //}
         /**
          * Return picture data for this shape
          *

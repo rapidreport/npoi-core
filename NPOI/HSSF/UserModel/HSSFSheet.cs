@@ -2104,18 +2104,18 @@ namespace jp.co.systembase.NPOI.HSSF.UserModel
         /// <param name="useMergedCells">whether to use the contents of merged cells when calculating the width of the column</param>
         public void AutoSizeColumn(int column, bool useMergedCells)
         {
-            double width = SheetUtil.GetColumnWidth(this, column, useMergedCells);
-            if (width != -1)
-            {
-                width *= 256;
-                int maxColumnWidth = 255 * 256; // The maximum column width for an individual cell is 255 characters
+            //double width = SheetUtil.GetColumnWidth(this, column, useMergedCells);
+            //if (width != -1)
+            //{
+            //    width *= 256;
+            //    int maxColumnWidth = 255 * 256; // The maximum column width for an individual cell is 255 characters
 
-                if (width > maxColumnWidth)
-                {
-                    width = maxColumnWidth;
-                }
-                SetColumnWidth(column, (int)width);
-            }
+            //    if (width > maxColumnWidth)
+            //    {
+            //        width = maxColumnWidth;
+            //    }
+            //    SetColumnWidth(column, (int)width);
+            //}
         }
 
         /// <summary>
@@ -2151,10 +2151,10 @@ namespace jp.co.systembase.NPOI.HSSF.UserModel
         /// </summary>
         /// <param name="font1">The font.</param>
         /// <returns></returns>
-        public System.Drawing.Font HSSFFont2Font(HSSFFont font1)
-        {
-            return new System.Drawing.Font(font1.FontName, font1.FontHeightInPoints);
-        }
+        //public System.Drawing.Font HSSFFont2Font(HSSFFont font1)
+        //{
+        //    return new System.Drawing.Font(font1.FontName, font1.FontHeightInPoints);
+        //}
 
         /// <summary>
         /// Returns cell comment for the specified row and column

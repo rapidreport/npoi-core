@@ -364,19 +364,19 @@ namespace jp.co.systembase.NPOI.XSSF.UserModel
          */
         public void AutoSizeColumn(int column, bool useMergedCells)
         {
-            double width = SheetUtil.GetColumnWidth(this, column, useMergedCells);
+            //double width = SheetUtil.GetColumnWidth(this, column, useMergedCells);
 
-            if (width != -1)
-            {
-                width *= 256;
-                int maxColumnWidth = 255 * 256; // The maximum column width for an individual cell is 255 characters
-                if (width > maxColumnWidth)
-                {
-                    width = maxColumnWidth;
-                }
-                SetColumnWidth(column, (int)(width));
-                columnHelper.SetColBestFit(column, true);
-            }
+            //if (width != -1)
+            //{
+            //    width *= 256;
+            //    int maxColumnWidth = 255 * 256; // The maximum column width for an individual cell is 255 characters
+            //    if (width > maxColumnWidth)
+            //    {
+            //        width = maxColumnWidth;
+            //    }
+            //    SetColumnWidth(column, (int)(width));
+            //    columnHelper.SetColBestFit(column, true);
+            //}
         }
         XSSFDrawing drawing = null;
         /**

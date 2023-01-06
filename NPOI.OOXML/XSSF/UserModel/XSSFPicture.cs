@@ -16,7 +16,7 @@
 ==================================================================== */
 
 using System;
-using System.Drawing;
+//using System.Drawing;
 using System.IO;
 using jp.co.systembase.NPOI.OpenXml4Net.OPC;
 using jp.co.systembase.NPOI.OpenXmlFormats.Dml;
@@ -200,58 +200,59 @@ namespace jp.co.systembase.NPOI.XSSF.UserModel
          */
         public IClientAnchor GetPreferredSize(double scale)
         {
-            XSSFClientAnchor anchor = (XSSFClientAnchor)GetAnchor();
+            return (XSSFClientAnchor)GetAnchor();
+            //XSSFClientAnchor anchor = (XSSFClientAnchor)GetAnchor();
 
-            XSSFPictureData data = (XSSFPictureData)this.PictureData;
-            Size size = GetImageDimension(data.GetPackagePart(), data.GetPictureType());
-            double scaledWidth = size.Width * scale;
-            double scaledHeight = size.Height * scale;
+            //XSSFPictureData data = (XSSFPictureData)this.PictureData;
+            //Size size = GetImageDimension(data.GetPackagePart(), data.GetPictureType());
+            //double scaledWidth = size.Width * scale;
+            //double scaledHeight = size.Height * scale;
 
-            float w = 0;
-            int col2 = anchor.Col1;
-            int dx2 = 0;
+            //float w = 0;
+            //int col2 = anchor.Col1;
+            //int dx2 = 0;
 
-            for (; ; )
-            {
-                w += GetColumnWidthInPixels(col2);
-                if (w > scaledWidth) break;
-                col2++;
-            }
+            //for (; ; )
+            //{
+            //    w += GetColumnWidthInPixels(col2);
+            //    if (w > scaledWidth) break;
+            //    col2++;
+            //}
 
-            if (w > scaledWidth)
-            {
-                double cw = GetColumnWidthInPixels(col2);
-                double delta = w - scaledWidth;
-                dx2 = (int)(EMU_PER_PIXEL * (cw - delta));
-            }
-            anchor.Col2 = (col2);
-            anchor.Dx2 = (dx2);
+            //if (w > scaledWidth)
+            //{
+            //    double cw = GetColumnWidthInPixels(col2);
+            //    double delta = w - scaledWidth;
+            //    dx2 = (int)(EMU_PER_PIXEL * (cw - delta));
+            //}
+            //anchor.Col2 = (col2);
+            //anchor.Dx2 = (dx2);
 
-            double h = 0;
-            int row2 = anchor.Row1;
-            int dy2 = 0;
+            //double h = 0;
+            //int row2 = anchor.Row1;
+            //int dy2 = 0;
 
-            for (; ; )
-            {
-                h += GetRowHeightInPixels(row2);
-                if (h > scaledHeight) break;
-                row2++;
-            }
+            //for (; ; )
+            //{
+            //    h += GetRowHeightInPixels(row2);
+            //    if (h > scaledHeight) break;
+            //    row2++;
+            //}
 
-            if (h > scaledHeight)
-            {
-                double ch = GetRowHeightInPixels(row2);
-                double delta = h - scaledHeight;
-                dy2 = (int)(EMU_PER_PIXEL * (ch - delta));
-            }
-            anchor.Row2 = (row2);
-            anchor.Dy2 = (dy2);
+            //if (h > scaledHeight)
+            //{
+            //    double ch = GetRowHeightInPixels(row2);
+            //    double delta = h - scaledHeight;
+            //    dy2 = (int)(EMU_PER_PIXEL * (ch - delta));
+            //}
+            //anchor.Row2 = (row2);
+            //anchor.Dy2 = (dy2);
 
-            CT_PositiveSize2D size2d = ctPicture.spPr.xfrm.ext;
-            size2d.cx = ((long)(scaledWidth * EMU_PER_PIXEL));
-            size2d.cy = ((long)(scaledHeight * EMU_PER_PIXEL));
+            //CT_PositiveSize2D size2d = ctPicture.spPr.xfrm.ext;
+            //size2d.cx = ((long)(scaledWidth * EMU_PER_PIXEL));
+            //size2d.cy = ((long)(scaledHeight * EMU_PER_PIXEL));
 
-            return anchor;
+            //return anchor;
         }
 
         private float GetColumnWidthInPixels(int columnIndex)
@@ -282,19 +283,19 @@ namespace jp.co.systembase.NPOI.XSSF.UserModel
          *
          * @return image dimension in pixels
          */
-        protected static Size GetImageDimension(PackagePart part, int type)
-        {
-            try
-            {
-                return Image.FromStream(part.GetInputStream()).Size;
-            }
-            catch (IOException e)
-            {
-                //return a "singulariry" if ImageIO failed to read the image
-                logger.Log(POILogger.WARN, e);
-                return new Size();
-            }
-        }
+        //protected static Size GetImageDimension(PackagePart part, int type)
+        //{
+        //    try
+        //    {
+        //        return Image.FromStream(part.GetInputStream()).Size;
+        //    }
+        //    catch (IOException e)
+        //    {
+        //        //return a "singulariry" if ImageIO failed to read the image
+        //        logger.Log(POILogger.WARN, e);
+        //        return new Size();
+        //    }
+        //}
 
 
         protected internal override NPOI.OpenXmlFormats.Dml.Spreadsheet.CT_ShapeProperties GetShapeProperties()
